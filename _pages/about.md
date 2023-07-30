@@ -15,7 +15,7 @@ profile:
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -27,7 +27,7 @@ Seekers on this planet want to unmask the answer to the three lettered monosylla
 
 Amidst the boundless expanses of research, I have developed a fervent fascination for [Logotherapy](https://en.wikipedia.org/wiki/Logotherapy), a profound school of thought that explores the human search for meaning and purpose in life. My inquisitive mind leads me to explore the [schools of philosophy](https://bigthink.com/thinking/10-schools-of-philosophy-and-why-you-should-know-them/), as I endeavor to comprehend the intricacies of human belief systems and behavioral science. The intricate tapestry of human existence, woven with diverse threads of thought, beckons me to unravel its complexities.
 
- The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
