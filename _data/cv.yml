@@ -17,10 +17,6 @@
       description:
         - Major- Electrical Engineering
         - Specialization- Integrated Circuits and Systems
-        - title: 
-          contents:
-            - 
-            - 
 
 - title: Experience
   type: time_table
@@ -28,30 +24,26 @@
 
     - title: Undergraduate Researcher
       institution: MeLoDe Lab, IIT Bombay
-      year: 2022 - Present
+      year: May 2022 - Present
       description:
-        - 
-        - 
+        - Modelled Globalfoundries 32nm PDSOI MOSFET for operation of neuron to enable a Liquid State Machine based on band to band tunneling (BTBT) in order to exercise benefits of
+lower variability, and an ultra-low power integrator as compared to ON and (subthreshold) SS operation
+        - Performed device characterisation, TCAD calibration, design space exploration, reliability and variability analysis
         - title: 
           contents:
             - 
             - 
     - title: Research and Development Intern
       institution: Atomberg Technologies
-      year: 2022
+      year: May- July 2022 
       description:
-        - Interned with the fans and new product development research and development team. Worked on integrating PIR (pyro-electric IR) sensors in existing HVAC technologies for motion/presence detection based operation. Developed firmware register transfer level (RTL) code for STM8s in Renesa fans and esp32c3 based fans.
-        - 
-        - title: 
-          contents:
-            - 
-            - 
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Integrated PIR (pyro-electric IR) sensors in fans for motion/presence detection based operation to enhance user experience and reduce energy consumption
+
+    - title: Data Science Intern
+      institution: Carnot Technologies
+      year: May- July 2021
       description:
         - Interned with the Data Science team. Worked on hyperspectral imaging provided by sentinel-hub archives to develop a machine learning framework to forecast sugar content and date of harvest. Analysed over 200 sugarcane farms across the nation.
-        - 
 
 - title: Honors and Awards
   type: time_table
@@ -63,16 +55,16 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: 
+    - title: Nanoelectronics 
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Device Modelling, Fabrication, Characterisation
+        - Compact Modelling, Reliability modelling
+    - title: VLSI- Integrated Circuits 
       items:
-        - Description 1.
-        - Description 2.
+        - Analog design
+        - Digital hardware design
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Dancing, Table Tennis, etc.
+    - Badminton, Table Tennis, Dancing
