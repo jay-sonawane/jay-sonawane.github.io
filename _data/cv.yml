@@ -26,8 +26,7 @@
       institution: MeLoDe Lab, IIT Bombay
       year: May 2022 - Present
       description:
-        - Modelled Globalfoundries 32nm PDSOI MOSFET for operation of neuron to enable a Liquid State Machine based on band to band tunneling (BTBT) in order to exercise benefits of
-lower variability, and an ultra-low power integrator as compared to ON and (subthreshold) SS operation
+        - Modelled Globalfoundries 32nm PDSOI MOSFET for operation of neuron to enable a Liquid State Machine based on band to band tunneling (BTBT) in order to exercise benefits of lower variability, and an ultra-low power integrator as compared to ON and (subthreshold) SS operation
         - Performed device characterisation, TCAD calibration, design space exploration, reliability and variability analysis
         - title: 
           contents:
