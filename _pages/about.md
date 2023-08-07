@@ -26,11 +26,9 @@ Currently, I am involved in research with the [Nano-scale Computing Devices Grou
 Amidst the boundless expanses of research, I have developed a fervent fascination for [Logotherapy](https://en.wikipedia.org/wiki/Logotherapy), a profound school of thought that explores the human search for meaning and purpose in life. In the quest for comprehending the intricacies of human belief systems and behavioral science, I find myself drawn to explore the [schools of philosophy](https://bigthink.com/thinking/10-schools-of-philosophy-and-why-you-should-know-them/). The intricate tapestry of human existence, woven with diverse threads of thought, beckons me to unravel its complexities.
 
 
-
-
 <br>
-<!-- blah blah blah -->
-<h4>Research Interests</h4>
+
+<h3>Research Interests</h3>
 My enduring fascination with nanoscale devices fuels my profound academic passion for Nanoelectronics, device physics, and modeling. On a broader horizon, microelectronics and VLSI encompass my keen interest. Further, analog circuit design, computer architecture, and hardware design captivate me.
 <br><br>
 

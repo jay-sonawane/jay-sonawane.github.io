@@ -28,10 +28,11 @@
       description:
         - Modelled Globalfoundries 32nm PDSOI MOSFET for operation of neuron to enable a Liquid State Machine based on band to band tunneling (BTBT) in order to exercise benefits of lower variability, and an ultra-low power integrator as compared to ON and (subthreshold) SS operation
         - Performed device characterisation, TCAD calibration, design space exploration, reliability and variability analysis
-        - title: 
+        - title: Skills learnt
           contents:
-            - 
-            - 
+            - TCAD Modelling
+            - Device Characterisation- IV, CV, stress (reliability in BTBT, SS and ON)
+
     - title: Research and Development Intern
       institution: Atomberg Technologies
       year: May- July 2022 
