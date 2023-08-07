@@ -9,9 +9,15 @@
               {% else %}
               {% assign news_limit = news_size %}
               {% endif %}
-              <!--
+              
               {% for item in news limit: news_limit %}
-                <tr>
+              <div class="news_updates">
+                {% assign news = site.news %}
+                {% for item in news %}
+                {{ item.content }}
+                {% endfor %}
+              </div> 
+                <!--<tr>
                   <th scope="row">{{ item.date | date: "%b, %Y" }}</th>
                   <td>
                     {% if item.inline -%}
@@ -20,14 +26,9 @@
                       <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
                     {%- endif %}
                   </td>
-                </tr>
-              {%- endfor %} -->
-              <div class="news_updates">
-                {% assign news = site.news %}
-                {% for item in news %}
-                {{ item.content }}
-                {% endfor %}
-              </div> 
+                </tr> -->
+              {%- endfor %} 
+              
               </table>
             </div>
           {%- else -%}
