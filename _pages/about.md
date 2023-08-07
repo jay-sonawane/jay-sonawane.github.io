@@ -44,6 +44,17 @@ Here's an essence of my <a href="{{ 'projects' | relative_url }}">research and o
 
 <div class="work"> 
 
+  <div class="work-item">
+    <div class="work-bubble-with-date">
+      <img src="/assets/img/teaching.jpg" class="work-bubble" />
+    </div>
+    <p class="work-text">
+      <strong>Teaching Assistant | Department of Electrical Engineering, IIT Bombay</strong> <br/>
+      <span style="font-size: 0.9rem">
+        » EE 746 - Neuromorphic Engineering, Spring 2023 <br>
+       </span>
+    </p>
+  </div>
 
   <div class="work-item vertical-center-text">
     <div class="work-bubble-with-date">
