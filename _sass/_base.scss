@@ -1034,3 +1034,26 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+
+// News
+
+.news {
+  height: 15vh;
+  overflow-y: auto;
+}
+
+// .news td, th {
+//   border: none!important;
+// }
+
+.news td {
+  font-size: 0.9rem;
+  color: var(--global-text-color);
+}
+
+.news th {
+  font-size: 0.8rem;
+  color: var(--global-text-color);
+  column-width: 120px;
+}
