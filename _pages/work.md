@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Work
+title: work
 permalink: /work/
 description: 
 nav: True
