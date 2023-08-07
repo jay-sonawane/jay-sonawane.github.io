@@ -48,3 +48,34 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+
+
+.work-item {
+  clear: both;
+  overflow: hidden;
+  padding-bottom: 2em;
+}
+
+.work-bubble {
+  // float: left;
+  padding-right: 20px;
+  padding-bottom: 0.3em;
+  width: 180px;
+  height: 120px;
+  object-fit: cover;
+}
+
+.work-bubble-with-date {
+  float: left;
+  padding-right: 20px;
+  // padding-bottom: 0.5em;
+  width: 180px;
+  text-align: center;
+  // height: 100px;
+  // object-fit: cover;
+}
+
+.work-text {
+  overflow: hidden;
+}
