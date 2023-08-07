@@ -28,12 +28,30 @@ Amidst the boundless expanses of research, I have developed a fervent fascinatio
 
 <br>
 
-<h3>Research Interests</h3>
-My enduring fascination with nanoscale devices fuels my profound academic passion for Nanoelectronics, device physics, and modeling. On a broader horizon, microelectronics and VLSI encompass my keen interest. Further, analog circuit design, computer architecture, and hardware design captivate me.
-<br><br>
+<br>
 
-<h4>Experience and Responsibilities</h4>
+<br>
+
+<br>
+
+<h2>Research Interests</h2>
+My enduring fascination with nanoscale devices fuels my profound academic passion for Nanoelectronics, device physics, and modeling. On a broader horizon, microelectronics and VLSI encompass my keen interest. Further, analog circuit design, computer architecture, and hardware design captivate me.
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<h2>Experience and Teaching Responsibilities</h2>
 Here's an essence of my <a href="{{ 'projects' | relative_url }}">research and other key projects</a>, and <a href="{{ 'work' | relative_url }}">professional work experience</a>. 
+
+<br>
+
+<br>
+
 
 <div class="work"> 
 
