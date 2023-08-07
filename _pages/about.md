@@ -14,7 +14,7 @@ profile:
     <p>Powai, Mumbai 400076</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -31,7 +31,7 @@ Amidst the boundless expanses of research, I have developed a fervent fascinatio
 <br>
 <!-- blah blah blah -->
 <h4>Research Interests</h4>
-Nanoscale devices have always interested me, which is why my academic interests lie in the area of Nanoelectronics, device physics and modelling. Other than that Analog design and Computer Architecture are two other areas of interests. 
+My enduring fascination with nanoscale devices fuels my profound academic passion for Nanoelectronics, device physics, and modeling. On a broader horizon, microelectronics and VLSI encompass my keen interest. Further, analog circuit design, computer architecture, and hardware design captivate me.
 <br><br>
 
 <h4>Experience and Responsibilities</h4>
