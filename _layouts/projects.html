@@ -1,0 +1,105 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <header class="post-header">
+    <h3>Research</h3>
+  </header>
+
+  <div class="work">
+    <br>
+    {% for item in site.data.research %}
+    <div class="work-item vertical-center-text">
+      <!-- <img
+        src="{{ item.image.src | absolute_url }}"
+        alt="{{ item.image.alt }}"
+        class="work-bubble"
+      /> -->
+      <div class="work-bubble-with-date">
+        <img
+          src="{{ item.image.src | absolute_url }}"
+          alt="{{ item.image.alt }}"
+          class="work-bubble"
+        />
+        {% if item.date %}
+          <h6>{{ item.date }}</h6>
+        {% endif %}
+      </div>
+      <p class="work-text">
+        <strong>{{ item.title }}</strong> <br/>
+        Guide: {{item.guide}} <br/>
+        {{ item.description | markdownify  | remove: '<p>' | remove: '</p>' | strip }}
+        <br/>
+        <span class="links">
+          {% if item.links.code %}
+          <a class="btn btn-sm z-depth-0" href={{ item.links.code }}>Code</a>
+          {% endif %}
+          {% if item.links.demo %}
+            <a class="btn btn-sm z-depth-0" href={{ item.links.demo }}>Demo</a>
+          {% endif %}
+          {% if item.links.blog %}
+            <a class="btn btn-sm z-depth-0" href={{ item.links.blog }}>Blog</a>
+          {% endif %}
+          {% if item.links.report %}
+          <a class="btn btn-sm z-depth-0" href={{ item.links.report }}>Report</a>
+          {% endif %}
+        </span>
+      </p>
+    </div>
+    {% endfor %}
+    
+  </div>
+  
+  <header class="post-header">
+    <h3>Key Projects</h3>
+  </header>
+  <!-- <article>
+    {{ content }}
+  </article> -->
+
+  <div class="work">
+    <br>
+    {% for item in site.data.projects %}
+    <div class="work-item vertical-center-text">
+      <!-- <img
+        src="{{ item.image.src | absolute_url }}"
+        alt="{{ item.image.alt }}"
+        class="work-bubble"
+      /> -->
+      <div class="work-bubble-with-date">
+        <img
+          src="{{ item.image.src | absolute_url }}"
+          alt="{{ item.image.alt }}"
+          class="work-bubble"
+        />
+        {% if item.date %}
+          <h6>{{ item.date }}</h6>
+        {% endif %}
+      </div>
+      <p class="work-text">
+        <strong>{{ item.title }}</strong> <br/>
+        {{ item.description | markdownify  | remove: '<p>' | remove: '</p>' | strip }}
+        <br/>
+        <span class="links">
+          {% if item.links.code %}
+          <a class="btn btn-sm z-depth-0" href={{ item.links.code }}>Code</a>
+          {% endif %}
+          {% if item.links.demo %}
+            <a class="btn btn-sm z-depth-0" href={{ item.links.demo }}>Demo</a>
+          {% endif %}
+          {% if item.links.blog %}
+            <a class="btn btn-sm z-depth-0" href={{ item.links.blog }}>Blog</a>
+          {% endif %}
+          {% if item.links.report %}
+          <a class="btn btn-sm z-depth-0" href={{ item.links.report }}>Report</a>
+          {% endif %}
+        </span>
+      </p>
+    </div>
+    {% endfor %}
+    
+  </div>
+
+</div>
