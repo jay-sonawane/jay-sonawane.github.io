@@ -1038,7 +1038,7 @@ nav[data-toggle="toc"] {
 
 // News
 
-.news {
+.news_updates {
   height: 15vh;
   overflow-y: auto;
 }
@@ -1047,12 +1047,12 @@ nav[data-toggle="toc"] {
 //   border: none!important;
 // }
 
-.news td {
+.news_updates td {
   font-size: 0.9rem;
   color: var(--global-text-color);
 }
 
-.news th {
+.news_updates th {
   font-size: 0.8rem;
   color: var(--global-text-color);
   column-width: 120px;
