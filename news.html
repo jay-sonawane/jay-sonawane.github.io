@@ -5,3 +5,10 @@ permalink: /news/
 ---
 
 {% include news.html %}
+
+<div class="news_updates">
+    {% assign news = site.news %}
+    {% for item in news %}
+    {{ item.content }}
+    {% endfor %}
+  </div>

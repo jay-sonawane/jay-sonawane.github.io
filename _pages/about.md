@@ -27,12 +27,7 @@ Amidst the boundless expanses of research, I have developed a fervent fascinatio
 
 
 
-<div class="news_updates">
-  {% assign news = site.news %}
-  {% for item in news %}
-  {{ item.content }}
-  {% endfor %}
-</div>
+
 <br>
 <!-- blah blah blah -->
 <h4>Research Interests</h4>
