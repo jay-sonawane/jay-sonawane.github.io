@@ -1,7 +1,7 @@
 ---
 layout: projects
-title: Projects
+title: projects
 permalink: /projects/
 nav: True
-navpos: 2
+navpos: 4
 ---

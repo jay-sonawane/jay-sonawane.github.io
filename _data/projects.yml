@@ -1,0 +1,85 @@
+- title: Band-to-Band tunneling based neuron- TCAD calibration and modeling, design space exploration and variability study
+  image:
+    src: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/16/9098120/9082814/chava3abc-2985167-large.gif
+    alt: 
+  date: May '22- present
+  description: Modelled a 32nm PDSOI MOSFET for operation in band to band tunneling (BTBT) regime. Calibrated experimental results (characterized at IIT Bombay Nanofabrication facility) with simulation results of
+GF32nm PDSOI MOSFET (fabricated at GlobalFoundries) using Sentaurus TCAD. Investigated the BTBT physics- presence of trap assisted tunneling and direct tunneling dominant regions. Performed design space analysis and variability analysis in TCAD.
+
+  links:
+    code: https://github.com/jayson-310801/EE724_project
+    demo: 
+    blog: 
+    report: https://github.com/jayson-310801/EE724_project/blob/main/EE724_PROJECT.pdf
+
+- title: Performace comparison of Patterned SOI over traditional SOI MOSFETs
+  image:
+    src: https://previews.123rf.com/images/djvstock/djvstock1809/djvstock180909706/109875476-online-dating-design-with-smartphone-with-couples-on-screen-over-white-background-vector-illustratio.jpg
+    alt: 
+  date: Spring '22
+  description: Demonstrated the comparison of Patterned SOI and traditional SOI, with simulations done in Sentaurus TCAD. Observed amn improved SS and DIBL in patterned SOI. 
+  links:
+    code: https://github.com/jayson-310801/EE724_project
+    demo: 
+    blog: 
+    report: https://github.com/jayson-310801/EE724_project/blob/main/EE724_PROJECT.pdf
+
+- title: Cascode CS-LNA Design
+  image:
+    src: /assets/img/project/groot.png
+    alt: 
+    date: Spring '22'
+    description: Designed a single ended cascoded common source Low Noise Amplifier (CS-LNA) in UMC 180nm CMOS. Achieved noise figure less than 2dB at 24GHz frequency. 
+  links:
+    code: https://github.com/jayson-310801/EE619_project
+    demo: 
+    blog: 
+    report: https://github.com/jayson-310801/EE619_project/blob/main/EE619_project_report_19D070026.pdf
+
+- title: Operational Transconductance Amplifier with Class-B Slew Rate Boosting
+  image:
+    src: /assets/img/project/raga.png
+    alt: 
+  date: Fall '21
+  description: Designed a operational transconductance amplifier with slew rate boosting of given target specifications for high-performance switched capacitor ADCs.
+  links:
+    code: 
+    demo: 
+    blog: 
+    report: 
+
+- title: Temperature Monitor
+  image:
+    src: /assets/img/project/indexing.jpg
+    alt: 
+  date: Spring '21
+  description: Built a temperature monitor on the Atmel AT89C51 Micro-controller (PT-51), interfacing LM35 using ADC MCP3008 to raise an alarm in case of rapid temperature variation.
+  links:
+    code: https://github.com/jayson-310801/EE337_temperature_monitor/tree/main/Project
+    demo: 
+    blog: 
+    report: 
+
+- title: Improving Photoluminescence in InAs Surface Quantum Dots
+  image:
+    src: /assets/img/project/texture-transfer.jpg
+    alt: 
+  date: Fall '20
+  description: Simulated 3D Stranski-Krastanov (SK) grown sub-monolayer InAs quantum dot heterostructure in NEXTNANO++ to study their strain, energy and photo-luminescence properties. Analyzed the surfactant effect of Sb in InAs surface quantum dots to improve the photo-luminescence. 
+  links:
+    code: https://github.com/jayson-310801/EE728_project
+    demo: 
+    blog: 
+    report: https://github.com/jayson-310801/EE728_project/blob/main/Project_19d070026_34.pdf
+
+- title: Planet and Atmosphere Renderer
+  image:
+    src: 
+    alt: 
+  date: Fall '20
+  description: Developed a real-time engine capable of rendering the earth with atmospheric scattering using GLFW library. Implemented graphics and modeling-viewing pipeline,GLSL shaders, vao and vbo code in OpenGL
+  links:
+    code: https://github.com/jayson-310801/tenalp
+    demo: 
+    blog: 
+    report: 
