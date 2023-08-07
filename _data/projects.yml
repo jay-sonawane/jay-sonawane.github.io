@@ -11,7 +11,20 @@
     blog: 
     report: https://github.com/jayson-310801/EE724_project/blob/main/EE724_PROJECT.pdf
 
-- title: Performace comparison of Patterned SOI over traditional SOI MOSFETs
+- title: Time zero variability, reliability analysis in SRAM 
+  image: 
+    src: https://ars.els-cdn.com/content/image/1-s2.0-S0167926019304249-gr16.jpg
+    alt: 
+  date: May'23- present
+  description: Carrying out various SRAM performance evaluation simulations before and after degradation due to time zero variability, BTI, HCD and RTN in spice.
+  links:
+    code: 
+    demo: 
+    blog: 
+    report:
+
+
+- title: Performance comparison of Patterned SOI over traditional SOI MOSFETs
   image: 
     src: https://www.researchgate.net/publication/312332929/figure/fig1/AS:452651021279232@1484931821907/Schematic-diagram-of-FD-SOI-MOSFET-with-highly-doped-back-plane-BP-beneath-thin-BOX.png
     alt: 
@@ -22,6 +35,34 @@
     demo: 
     blog: 
     report: https://github.com/jayson-310801/EE724_project/blob/main/EE724_PROJECT.pdf
+
+
+- title: Low SNR input LSM - Optimal Compression and Preprocessing
+  image: 
+    src: https://www.researchgate.net/publication/333528093/figure/fig1/AS:766182978236416@1559683665470/A-model-of-the-liquid-state-machine.png
+    alt: 
+  date: May'23- present
+  description: Modelled the architecture of a liquid state machine (LSM) for speech recognition by modifying the preprocessing chain, LSM reservior and output classification set of neurons to train the network for low SNR input (10dB) by achieving similar spiking response as compared to high SNR input (52dB
+  links:
+    code: 
+    demo: 
+    blog: 
+    report: https://docs.google.com/presentation/d/1hBqhccFlcjvtpsLxbElKo86cePe4LBCc/edit#slide=id.p1
+
+- title: Resonant Tunneling Diodes- NEGF-Poisson based consistent simulation 
+  image: 
+    src: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10762-019-00573-5/MediaObjects/10762_2019_573_Fig1_HTML.png
+    alt: 
+  date: May'23- present
+  description: Modelled a resonant tunneling diode heterostructure using a self consistent NEGF-Poisson formulation in MATLAB to study the impact of variation in quantum well and barrier parameters on transmission coefficient and I-V characteristics.
+  links:
+    code: 
+    demo: 
+    blog: 
+    report:
+
+
+
 
 - title: Cascode CS-LNA Design
   image:
