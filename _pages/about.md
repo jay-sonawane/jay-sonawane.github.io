@@ -27,7 +27,6 @@ Amidst the boundless expanses of research, I have developed a fervent fascinatio
 
 
 
-<h4>Updates </h4>
 <div class="news_updates">
   {% assign news = site.news %}
   {% for item in news %}
