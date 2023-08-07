@@ -3,8 +3,7 @@
     src: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/16/9098120/9082814/chava3abc-2985167-large.gif
     alt: 
   date: May '22- present
-  description: Modelled a 32nm PDSOI MOSFET for operation in band to band tunneling (BTBT) regime. Calibrated experimental results (characterized at IIT Bombay Nanofabrication facility) with simulation results of
-GF32nm PDSOI MOSFET (fabricated at GlobalFoundries) using Sentaurus TCAD. Investigated the BTBT physics- presence of trap assisted tunneling and direct tunneling dominant regions. Performed design space analysis and variability analysis in TCAD.
+  description: Modelled a 32nm PDSOI MOSFET for operation in band to band tunneling (BTBT) regime. Calibrated experimental results (characterized at IIT Bombay Nanofabrication facility) with simulation results of GF32nm PDSOI MOSFET (fabricated at GlobalFoundries) using Sentaurus TCAD. Investigated the BTBT physics- presence of trap assisted tunneling and direct tunneling dominant regions. Performed design space analysis and variability analysis in TCAD.
 
   links:
     code: https://github.com/jayson-310801/EE724_project
