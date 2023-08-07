@@ -12,7 +12,7 @@
     report: https://github.com/jayson-310801/EE724_project/blob/main/EE724_PROJECT.pdf
 
 - title: Performace comparison of Patterned SOI over traditional SOI MOSFETs
-  image:
+  image: https://www.researchgate.net/publication/312332929/figure/fig1/AS:452651021279232@1484931821907/Schematic-diagram-of-FD-SOI-MOSFET-with-highly-doped-back-plane-BP-beneath-thin-BOX.png
     src: https://previews.123rf.com/images/djvstock/djvstock1809/djvstock180909706/109875476-online-dating-design-with-smartphone-with-couples-on-screen-over-white-background-vector-illustratio.jpg
     alt: 
   date: Spring '22
@@ -25,7 +25,7 @@
 
 - title: Cascode CS-LNA Design
   image:
-    src: /assets/img/project/groot.png
+    src: https://www.researchgate.net/publication/224107364/figure/fig1/AS:340697518493709@1458240026865/The-common-source-common-gate-cascode-LNA-topology.png
     alt: 
     date: Spring '22'
     description: Designed a single ended cascoded common source Low Noise Amplifier (CS-LNA) in UMC 180nm CMOS. Achieved noise figure less than 2dB at 24GHz frequency. 
@@ -37,11 +37,11 @@
 
 - title: Operational Transconductance Amplifier with Class-B Slew Rate Boosting
   image:
-    src: /assets/img/project/raga.png
+    src: https://d3i71xaburhd42.cloudfront.net/a79a1b65d07965a65db99ee6c1fdeb0431f8f37a/5-Figure7-1.png
     alt: 
   date: Fall '21
   description: Designed a operational transconductance amplifier with slew rate boosting of given target specifications for high-performance switched capacitor ADCs.
-  links:
+  links: 
     code: 
     demo: 
     blog: 
@@ -49,7 +49,7 @@
 
 - title: Temperature Monitor
   image:
-    src: /assets/img/project/indexing.jpg
+    src: https://d3i71xaburhd42.cloudfront.net/c4abc11b01ee38b9f4a7be7dda9431eb8e057a6c/2-Figure1-1.png
     alt: 
   date: Spring '21
   description: Built a temperature monitor on the Atmel AT89C51 Micro-controller (PT-51), interfacing LM35 using ADC MCP3008 to raise an alarm in case of rapid temperature variation.
@@ -61,7 +61,7 @@
 
 - title: Improving Photoluminescence in InAs Surface Quantum Dots
   image:
-    src: /assets/img/project/texture-transfer.jpg
+    src: https://ars.els-cdn.com/content/image/1-s2.0-S016943321100537X-gr3.jpg
     alt: 
   date: Fall '20
   description: Simulated 3D Stranski-Krastanov (SK) grown sub-monolayer InAs quantum dot heterostructure in NEXTNANO++ to study their strain, energy and photo-luminescence properties. Analyzed the surfactant effect of Sb in InAs surface quantum dots to improve the photo-luminescence. 
@@ -73,7 +73,7 @@
 
 - title: Planet and Atmosphere Renderer
   image:
-    src: 
+    src: https://blenderartists.org/uploads/default/original/4X/3/7/d/37d6cabfe5f341b5b41d2d653591d271b8d58efa.jpeg
     alt: 
   date: Fall '20
   description: Developed a real-time engine capable of rendering the earth with atmospheric scattering using GLFW library. Implemented graphics and modeling-viewing pipeline,GLSL shaders, vao and vbo code in OpenGL
