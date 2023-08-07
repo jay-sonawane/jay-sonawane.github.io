@@ -2,7 +2,7 @@
   image:
     src: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/16/9098120/9082814/chava3abc-2985167-large.gif
     alt: 
-  date: May '22- present
+  date: May '22- August '23
   description: Modelled a 32nm PDSOI MOSFET for operation in band to band tunneling (BTBT) regime. Calibrated experimental results (characterized at IIT Bombay Nanofabrication facility) with simulation results of GF32nm PDSOI MOSFET (fabricated at GlobalFoundries) using Sentaurus TCAD. Investigated the BTBT physics- presence of trap assisted tunneling and direct tunneling dominant regions. Performed design space analysis and variability analysis in TCAD.
 
   links:
@@ -23,7 +23,6 @@
     blog: 
     report:
 
-
 - title: Performance comparison of Patterned SOI over traditional SOI MOSFETs
   image: 
     src: https://www.researchgate.net/publication/312332929/figure/fig1/AS:452651021279232@1484931821907/Schematic-diagram-of-FD-SOI-MOSFET-with-highly-doped-back-plane-BP-beneath-thin-BOX.png
@@ -41,7 +40,7 @@
   image: 
     src: https://www.researchgate.net/publication/333528093/figure/fig1/AS:766182978236416@1559683665470/A-model-of-the-liquid-state-machine.png
     alt: 
-  date: May'23- present
+  date: Fall '22
   description: Modelled the architecture of a liquid state machine (LSM) for speech recognition by modifying the preprocessing chain, LSM reservior and output classification set of neurons to train the network for low SNR input (10dB) by achieving similar spiking response as compared to high SNR input (52dB
   links:
     code: 
@@ -53,7 +52,7 @@
   image: 
     src: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10762-019-00573-5/MediaObjects/10762_2019_573_Fig1_HTML.png
     alt: 
-  date: May'23- present
+  date: Spring '23
   description: Modelled a resonant tunneling diode heterostructure using a self consistent NEGF-Poisson formulation in MATLAB to study the impact of variation in quantum well and barrier parameters on transmission coefficient and I-V characteristics.
   links:
     code: 
@@ -62,13 +61,11 @@
     report:
 
 
-
-
 - title: Cascode CS-LNA Design
   image:
     src: https://www.researchgate.net/publication/224107364/figure/fig1/AS:340697518493709@1458240026865/The-common-source-common-gate-cascode-LNA-topology.png
     alt: 
-    date: Spring '22'
+    date: Spring '22
     description: Designed a single ended cascoded common source Low Noise Amplifier (CS-LNA) in UMC 180nm CMOS. Achieved noise figure less than 2dB at 24GHz frequency. 
   links:
     code: https://github.com/jayson-310801/EE619_project
@@ -87,6 +84,19 @@
     demo: 
     blog: 
     report: 
+
+- title: 20 MHz Transimpedance Amplifier (TIA) for POF applications
+  image:
+    src: "/assets/img/edl.png"
+    alt: 
+  date: Spring '22
+  description: Designed a 3-stage closed loop transimpedance amplifier using CS JFET and 2 CE BJTs with collector-base biasing  with 20MHz of bandwidth for plastic optical fiber communication.
+  links: 
+    code: 
+    demo: 
+    blog: 
+    report: 
+
 
 - title: Temperature Monitor
   image:
