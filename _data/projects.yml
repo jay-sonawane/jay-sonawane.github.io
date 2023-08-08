@@ -4,7 +4,7 @@
     src: https://www.researchgate.net/publication/333528093/figure/fig1/AS:766182978236416@1559683665470/A-model-of-the-liquid-state-machine.png
     alt: 
   date: Fall '22
-  description: Modelled the architecture of a liquid state machine (LSM) for speech recognition by modifying the preprocessing chain, LSM reservior and output classification set of neurons to train the network for low SNR input (10dB) by achieving similar spiking response as compared to high SNR input (52dB
+  description: Modelled the architecture of a liquid state machine (LSM) for speech recognition by modifying the preprocessing chain, LSM reservior and output classification set of neurons to train the network for low SNR input (10dB) by achieving similar spiking response as compared to high SNR input (52dB)
   links:
     code: 
     demo: 

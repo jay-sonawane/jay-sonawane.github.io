@@ -31,7 +31,7 @@ Amidst the boundless expanses of research, I have developed a fervent fascinatio
 <br>
 
 
-<h2>Research Interests</h2>
+<h2><strong>Research</strong> Interests</h2>
 My enduring fascination with nanoscale devices fuels my profound academic passion for Nanoelectronics, device physics, and modeling. On a broader horizon, microelectronics and VLSI encompass my keen interest. Further, analog circuit design, computer architecture, and hardware design captivate me.
 
 <br>
@@ -39,7 +39,7 @@ My enduring fascination with nanoscale devices fuels my profound academic passio
 <br>
 
 
-<h2>Experience and Teaching Responsibilities</h2>
+<h2><strong>Experience</strong> and Teaching Responsibilities</h2>
 Here's an essence of my <a href="{{ 'projects' | relative_url }}">research and other key projects</a>, and <a href="{{ 'work' | relative_url }}">professional work experience</a>. 
 
 <br>
@@ -54,7 +54,7 @@ Here's an essence of my <a href="{{ 'projects' | relative_url }}">research and o
     <p class="work-text">
       <strong>Teaching Assistant | Department of Electrical Engineering, IIT Bombay</strong> <br/>
       <span style="font-size: 0.9rem">
-        » EE 746 - Neuromorphic Engineering, Spring 2023 <br>
+        » EE 746 - Neuromorphic Engineering, Fall 2023 <br>
        </span>
     </p>
   </div>
@@ -64,7 +64,7 @@ Here's an essence of my <a href="{{ 'projects' | relative_url }}">research and o
       <img src="/assets/img/smp.jpg" class="work-bubble" />
     </div>
     <p class="work-text">
-      <strong>Department Academic Mentor, Electrical Engineering, from Fall 2022</strong> <br/>
+      <strong>Department Academic Mentor, Electrical Engineering, 2022-23</strong> <br/>
     </p>
   </div>
 
