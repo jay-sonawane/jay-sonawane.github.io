@@ -5,6 +5,7 @@ date:   2023-08-11 16:40:16
 description: march & april, looking forward to life
 tags: formatting links
 categories: sample-posts
+featured: true
 ---
 
 Albeit the title sounds like a story where an underserved college undergrad bags the coveted internship 
