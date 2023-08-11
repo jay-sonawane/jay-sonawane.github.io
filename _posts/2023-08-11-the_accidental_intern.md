@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Accidental Intern
-date:   2023-08-11 16:40:16
+date: 2023-08-10
 description: march & april, looking forward to life
 tags: formatting links
 categories: sample-posts
