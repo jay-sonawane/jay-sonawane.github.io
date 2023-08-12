@@ -29,7 +29,7 @@
     src: https://www.researchgate.net/publication/224107364/figure/fig1/AS:340697518493709@1458240026865/The-common-source-common-gate-cascode-LNA-topology.png
     alt: 
     date: Spring '22
-    description: Designed a single ended cascoded common source Low Noise Amplifier (CS-LNA) in UMC 180nm CMOS. Achieved noise figure less than 2dB at 24GHz frequency. 
+    description: Designed a single ended cascoded common source Low Noise Amplifier (CS-LNA) in UMC 180nm CMOS technology. Achieved noise figure less than 2dB at 24GHz frequency. 
   links:
     code: https://github.com/jayson-310801/EE619_project
     demo: 
