@@ -49,6 +49,15 @@ Here's an essence of my <a href="{{ 'projects' | relative_url }}">research and o
 
   <div class="work-item">
     <div class="work-bubble-with-date">
+      <img src="https://www.semix.iitb.ac.in/semix/wp-content/uploads/2023/04/Semix_logo-1.png" class="work-bubble" />
+    </div>
+    <p class="work-text">
+      <strong> Coordinator, SEMIX IIT Bombay</strong> <br/>
+    </p>
+  </div>
+
+  <div class="work-item">
+    <div class="work-bubble-with-date">
       <img src="/assets/img/teaching.jpg" class="work-bubble" />
     </div>
     <p class="work-text">
