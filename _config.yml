@@ -48,7 +48,8 @@ repo_trophies:
 rss_icon: true
 
 # -----------------------------------------------------------------------------
-# Layout
+# Layout Device modeling is defined as construction of a semiconductor device model that includes carrier transport and
+# electronic states of the semiconductor based on device physics.
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
