@@ -1,3 +1,17 @@
+- title: BEOL compatible Indium Tin Oxide Transistor and HfO2 RRAM for 3D monolithic integration
+  image:
+    guide: <a href="https://www.ee.iitb.ac.in/web/people/veeresh-deshpande/"> Prof. Veeresh Deshpande </a>, <a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">Prof. Udayan Ganguly</a>, <a href="https://www.ee.iitb.ac.in/~udayanresearch/"> MeLoDe Lab, Indian Institute of Technology Bombay</a>
+    src: https://www.researchgate.net/publication/367552762/figure/fig1/AS:11431281115856416@1675127775209/A-monolithic-3D-integration-of-2D-FETs-has-the-potential-to-open-the-door-towards-More.png
+    alt: 
+  date: Aug '23- present
+  description: Fabricating HfO2 based RRAM and ITO MOSFET for memory access. Performing TCAD modeling to design an optimized process flow.
+
+  links:
+    code: 
+    demo: 
+    blog: 
+    report:
+
 - title: Band-to-Band tunneling based neuron- TCAD calibration and modeling, design space exploration and variability study
   image:
     guide: <a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">Prof. Udayan Ganguly</a>, <a href="https://www.ee.iitb.ac.in/~udayanresearch/"> MeLoDe Lab, Indian Institute of Technology Bombay</a>
@@ -7,10 +21,10 @@
   description: Modelled  GF 32nm PDSOI MOSFET (fabricated at GlobalFoundries) for operation in band to band tunneling (BTBT) regime. Calibrated experimental results (characterized at IIT Bombay Nanofabrication facility) with simulation results using Sentaurus TCAD. Investigated the BTBT physics- presence of trap assisted tunneling and direct tunneling dominant regions. Performed design space analysis and variability analysis in TCAD.
 
   links:
-    code: https://github.com/jayson-310801/EE724_project
+    code: 
     demo: 
     blog: 
-    report: https://github.com/jayson-310801/EE724_project/blob/main/EE724_PROJECT.pdf
+    report:
 
 - title: Time zero variability, reliability analysis in SRAM 
   image:
@@ -33,7 +47,7 @@
   date: Spring '22
   description: Demonstrated the comparison of Patterned SOI and traditional SOI, with simulations done in Sentaurus TCAD. Observed amn improved SS and DIBL in patterned SOI. 
   links:
-    code: https://github.com/jayson-310801/EE724_project
+    code: 
     demo: 
     blog: 
     report: https://github.com/jayson-310801/EE724_project/blob/main/EE724_PROJECT.pdf
