@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a final year student at [Indian Institute of Technology Bombay](https://www.iitb.ac.in/) pursuing a Dual Degree (B.Tech+M.Tech) in Electrical Engineering, specializing in Integrated Ciruits and Systems.
 
-Currently, I am involved in research with the [Nano-scale Computing Devices Group](https://nanomemorylogic.wordpress.com/), with [Prof. Udayan Ganguly](https://www.ee.iitb.ac.in/web/people/faculty/home/udayan) and [Prof. Veeresh Deshpande](https://www.ee.iitb.ac.in/web/people/veeresh-deshpande/). Through the exploration of device physics, intricate design, and precise fabrication, we are actively engaged in advancing the realm of advanced computing. Currently, I am working on BEOL compatible RRAM and ITO MOSFET design, fabrication and modeling for 3D monolithic integration, as a part of my Dual Degree thesis. Earlier I worked on modeling of GF32nm SOI MOSFET for application in band-to-band tunneling neuron. I am also working on integration of variation in CARAT for SRAM and Sense amp circuits particularly, under the guidance of [Prof. Souvik Mahapatra](https://www.ee.iitb.ac.in/wiki/faculty/souvik). 
+Currently, I am involved in research with the [Nano-scale Computing Devices Group](https://nanomemorylogic.wordpress.com/), with [Prof. Udayan Ganguly](https://www.ee.iitb.ac.in/web/people/faculty/home/udayan) and [Prof. Veeresh Deshpande](https://www.ee.iitb.ac.in/web/people/veeresh-deshpande/). Through the exploration of device physics, intricate design, and precise fabrication, we are actively engaged in advancing the realm of advanced computing. As a part of my Dual Degree thesis, I am working on BEOL compatible RRAM and ITO MOSFET design, fabrication and modeling for 3D monolithic integration. Earlier I worked on modeling of GF32nm SOI MOSFET for application in band-to-band tunneling neuron. I am also working on integration of variation in CARAT for SRAM and Sense amplifier circuits particularly, under the guidance of [Prof. Souvik Mahapatra](https://www.ee.iitb.ac.in/wiki/faculty/souvik). 
 
 Amidst the boundless expanses of academic research, I have developed a fervent fascination for [Logotherapy](https://en.wikipedia.org/wiki/Logotherapy). In the quest for comprehending the intricacies of human belief systems and behavioral science, I find myself drawn to explore the [schools of philosophy](https://bigthink.com/thinking/10-schools-of-philosophy-and-why-you-should-know-them/). 
 
@@ -32,8 +32,8 @@ Amidst the boundless expanses of academic research, I have developed a fervent f
 
 
 <h2><strong>Research</strong> Interests</h2>
-My enduring fascination with nanoscale devices fuels my profound academic passion for nanoelectronics, device physics, and modeling.
-I am interested to design and fabricate novel devices with accurate modeling.
+An enduring fascination with nanoscale devices fuels my profound academic passion for nanoelectronics, device physics, and modeling.
+I am interested in designing and fabrication of novel devices with accurate modeling explaining the underlying physics.
 On a broader horizon, microelectronics and VLSI circuits encompass my interest.
 
 <br>
