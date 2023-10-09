@@ -32,7 +32,9 @@ Amidst the boundless expanses of academic research, I have developed a fervent f
 
 
 <h2><strong>Research</strong> Interests</h2>
-My enduring fascination with nanoscale devices fuels my profound academic passion for nanoelectronics, device physics, and modelling. On a broader horizon, microelectronics and VLSI encompass my keen interest. Further, analog circuit design, computer architecture, and hardware design captivate me.
+My enduring fascination with nanoscale devices fuels my profound academic passion for nanoelectronics, device physics, and modeling.
+I am interested to design and fabricate novel devices with accurate modeling.
+On a broader horizon, microelectronics and VLSI circuits encompass my interest.
 
 <br>
 
