@@ -26,6 +26,7 @@
       institution: MeLoDe Lab, IIT Bombay
       year: May 2022 - Present
       description:
+        - Modeling and fabricating BEOL RRAM and ITO MOSFET for 3D monolithic integration.
         - Modelled Globalfoundries 32nm PDSOI MOSFET for operation of neuron to enable a Liquid State Machine based on band to band tunneling (BTBT) in order to exercise benefits of lower variability, and an ultra-low power integrator as compared to ON and (subthreshold) SS operation
         - Performed device characterisation, TCAD calibration, design space exploration, reliability and variability analysis
         - title: Skills learnt
@@ -67,4 +68,4 @@
 - title: Other Interests
   type: list
   contents:
-    - Badminton, Table Tennis, Dancing
+    - Movies, Badminton, Table Tennis, Dancing
