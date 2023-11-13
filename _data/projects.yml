@@ -23,7 +23,6 @@
     blog: 
     report:
 
-
 - title: Cascode CS-LNA Design
   image:
     src: https://www.researchgate.net/publication/224107364/figure/fig1/AS:340697518493709@1458240026865/The-common-source-common-gate-cascode-LNA-topology.png
@@ -59,7 +58,6 @@
     demo: 
     blog: 
     report: 
-
 
 - title: Temperature Monitor
   image:
