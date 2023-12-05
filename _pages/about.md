@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 I am a final year student at [Indian Institute of Technology Bombay](https://www.iitb.ac.in/) pursuing a Dual Degree (B.Tech+M.Tech) in Electrical Engineering, specializing in Nanoelectronics and Integrated Ciruits.
 
-Currently, I am involved in research with the [Nano-scale Computing Devices Group](https://nanomemorylogic.wordpress.com/), with [Prof. Udayan Ganguly](https://www.ee.iitb.ac.in/web/people/faculty/home/udayan) and [Prof. Veeresh Deshpande](https://www.ee.iitb.ac.in/web/people/veeresh-deshpande/). Through the exploration of device physics, intricate design, and precise fabrication, we are actively engaged in advancing the realm of advanced computing. My Dual Degree thesis is based on BEOL compatible 1T-1R (RRAM and ITO MOSFET) design, fabrication and modeling for 3D monolithic integration. Earlier I worked on modeling of GF32nm SOI MOSFET for application in band-to-band tunneling neuron. I am also working on integration of variability aware degradation in CARAT for SRAM and sense amplifier circuits, under the guidance of [Prof. Souvik Mahapatra](https://www.ee.iitb.ac.in/wiki/faculty/souvik). 
+Currently, I am involved in research with the [Nano-scale Computing Devices Group](https://nanomemorylogic.wordpress.com/), with [Prof. Udayan Ganguly](https://www.ee.iitb.ac.in/web/people/faculty/home/udayan) and [Prof. Veeresh Deshpande](https://www.ee.iitb.ac.in/web/people/veeresh-deshpande/). My Dual Degree thesis is based on BEOL compatible 1T-1R (RRAM and ITO MOSFET) design, fabrication and modeling for 3D monolithic integration. Earlier I worked on modeling of GF32nm SOI MOSFET for application in band-to-band tunneling neuron. I am also working on integration of variability aware degradation in CARAT for SRAM and sense amplifier circuits, under the guidance of [Prof. Souvik Mahapatra](https://www.ee.iitb.ac.in/wiki/faculty/souvik). 
 
-<!-- Amidst the boundless expanses of academic research, I have developed a fervent fascination for [Logotherapy](https://en.wikipedia.org/wiki/Logotherapy). In the quest for comprehending the intricacies of human belief systems and behavioral science, I find myself drawn to explore the [schools of philosophy](https://bigthink.com/thinking/10-schools-of-philosophy-and-why-you-should-know-them/).  -->
+<!-- Amidst the boundless expanses of academic research, I have developed a fervent fascination for [Logotherapy](https://en.wikipedia.org/wiki/Logotherapy). In the quest for comprehending the intricacies of human belief systems and behavioral science, I find myself drawn to explore the [schools of philosophy](https://bigthink.com/thinking/10-schools-of-philosophy-and-why-you-should-know-them/). Through the exploration of device physics, intricate design, and precise fabrication, we are actively engaged in advancing the realm of advanced computing.  -->
 
 
 <br>
@@ -33,8 +33,7 @@ Currently, I am involved in research with the [Nano-scale Computing Devices Grou
 
 <h2><strong>Research</strong> Interests</h2>
 An enduring fascination with nanoscale devices fuels my profound academic passion for nanoelectronics, device physics, and modeling.
-I am interested in designing and fabrication of novel devices with accurate modeling explaining the underlying physics.
-On a broader horizon, microelectronics and VLSI circuits encompass my interest.
+I am interested in designing and fabrication of novel devices with accurate modeling, for efficient device-to-circuit system level translation.
 
 <br>
 
