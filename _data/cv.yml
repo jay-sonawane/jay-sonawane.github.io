@@ -24,7 +24,7 @@
 
     - title: Undergraduate Researcher
       institution: MeLoDe Lab, IIT Bombay
-      year: May 2022 - Present
+      year: May 2022 - August 2023
       description:
         - Modeling and fabricating BEOL RRAM and ITO MOSFET for 3D monolithic integration.
         - Modelled Globalfoundries 32nm PDSOI MOSFET for operation of neuron to enable a Liquid State Machine based on band to band tunneling (BTBT) in order to exercise benefits of lower variability, and an ultra-low power integrator as compared to ON and (subthreshold) SS operation
@@ -60,10 +60,9 @@
       items: 
         - Device Modelling, Fabrication, Characterisation
         - Compact Modelling, Reliability modelling
-    - title: VLSI- Integrated Circuits 
+    - title: Integrated Circuits 
       items:
-        - Analog design
-        - Digital hardware design
+        - Analog circuit design
 
 - title: Other Interests
   type: list
