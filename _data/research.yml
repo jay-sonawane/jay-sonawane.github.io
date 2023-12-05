@@ -4,23 +4,21 @@
     src: https://www.researchgate.net/publication/367552762/figure/fig1/AS:11431281115856416@1675127775209/A-monolithic-3D-integration-of-2D-FETs-has-the-potential-to-open-the-door-towards-More.png
     alt: 
   date: Aug '23- present
-  description: Fabricating HfO2 based RRAM and ITO MOSFET for memory access. Performing TCAD modeling to design an optimized process flow.
-
-  links:
+  description: Fabricating BEOL HfO2 RRAM (memory) and ITO MOSFET (memory access). Performing TCAD modeling to design an optimized process flow.
+  links: 
     code: 
     demo: 
     blog: 
     report:
 
 - title: Band-to-Band tunneling based neuron- TCAD calibration and modeling, design space exploration and variability study
-  guide: <a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">Prof. Udayan Ganguly</a>, <a href="https://www.ee.iitb.ac.in/~udayanresearch/"> MeLoDe Lab, Indian Institute of Technology Bombay</a>
+  guide: <a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">Prof. Udayan Ganguly</a>, <a href="https://www.ee.iitb.ac.in/~udayanresearch/"> MeLoDe Lab </a>, Indian Institute of Technology Bombay
   image:
     src: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/16/9098120/9082814/chava3abc-2985167-large.gif
     alt: 
   date: May '22- August '23
   description: Modelled  GF 32nm PDSOI MOSFET (fabricated at GlobalFoundries) for operation in band to band tunneling (BTBT) regime. Calibrated experimental results (characterized at IIT Bombay Nanofabrication facility) with simulation results using Sentaurus TCAD. Investigated the BTBT physics- presence of trap assisted tunneling and direct tunneling dominant regions. Performed design space analysis and variability analysis in TCAD.
-
-  links:
+  links: https://arxiv.org/abs/2311.18577
     code: 
     demo: 
     blog: 
@@ -40,7 +38,7 @@
     report:
 
 - title: Performance comparison of Patterned SOI over traditional SOI MOSFETs
-  guide: <a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">Prof. Udayan Ganguly</a>, <a href="https://www.ee.iitb.ac.in/~udayanresearch/"> MeLoDe Lab, Indian Institute of Technology Bombay</a>
+  guide: <a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">Prof. Udayan Ganguly</a>, <a href="https://www.ee.iitb.ac.in/~udayanresearch/"> MeLoDe Lab</a>, Indian Institute of Technology Bombay
   image:
     src: https://www.researchgate.net/publication/312332929/figure/fig1/AS:452651021279232@1484931821907/Schematic-diagram-of-FD-SOI-MOSFET-with-highly-doped-back-plane-BP-beneath-thin-BOX.png
     alt: 
