@@ -5,6 +5,7 @@
     alt: 
   date: Aug '23- present
   description: Fabricating BEOL HfO2 RRAM (memory) and ITO MOSFET (memory access). Performing TCAD modeling to design an optimized process flow.
+  
   links: 
     code: 
     demo: 
@@ -18,6 +19,7 @@
     alt: 
   date: May '22- August '23
   description: Modelled  GF 32nm PDSOI MOSFET (fabricated at GlobalFoundries) for operation in band to band tunneling (BTBT) regime. Calibrated experimental results (characterized at IIT Bombay Nanofabrication facility) with simulation results using Sentaurus TCAD. Investigated the BTBT physics- presence of trap assisted tunneling and direct tunneling dominant regions. Performed design space analysis and variability analysis in TCAD.
+  
   links: https://arxiv.org/abs/2311.18577
     code: 
     demo: 
@@ -31,6 +33,7 @@
     alt: 
   date: May'23- present
   description: Developing CARAT (Circuit Aging Reliability Analysis Tool)- carrying out various SRAM performance evaluation simulations before and after degradation due to time zero variability, BTI, HCD and RTN. 
+  
   links:
     code: 
     demo: 
@@ -44,6 +47,7 @@
     alt: 
   date: Spring '22
   description: Demonstrated the comparison of Patterned SOI and traditional SOI, with simulations done in Sentaurus TCAD. Observed amn improved SS and DIBL in patterned SOI. 
+  
   links:
     code: 
     demo: 
@@ -57,9 +61,9 @@
     alt: 
   date: Fall '21
   description: Studied a compact model used to partition the measured threshold voltage shift kinetics for different stresses into Hot Carrier Degradation, Bias Temperature Instability and electron/hole trapping subcomponents at low temperature using spice simulations
+  
   links:
     code: 
     demo: 
     blog: 
     report: 
-
