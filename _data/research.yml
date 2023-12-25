@@ -1,38 +1,38 @@
 - title: BEOL compatible Indium Tin Oxide Transistor and HfO2 RRAM for 3D monolithic integration
+  guide: <a href="https://www.ee.iitb.ac.in/web/people/veeresh-deshpande/">Prof. Veeresh Deshpande</a>, Indian Institute of Technology Bombay  
   image:
-  guide: <a href="https://www.ee.iitb.ac.in/web/people/veeresh-deshpande/">Prof. Veeresh Deshpande</a>, Indian Institute of Technology Bombay
     src: https://www.researchgate.net/publication/367552762/figure/fig1/AS:11431281115856416@1675127775209/A-monolithic-3D-integration-of-2D-FETs-has-the-potential-to-open-the-door-towards-More.png
     alt: 
   date: Aug '23- present
-  description: Fabricating BEOL HfO2 RRAM (memory) and ITO MOSFET (memory access). Performing TCAD modeling to design an optimized process flow.
-  links: 
+  description: Fabricating HfO2 based RRAM and ITO MOSFET for memory access. Performing TCAD modeling to design an optimized process flow.
+
+  links:
     code: 
     demo: 
     blog: 
     report:
 
 - title: Band-to-Band tunneling based neuron- TCAD calibration and modeling, design space exploration and variability study
-  image:
   guide: <a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">Prof. Udayan Ganguly</a>, <a href="https://www.ee.iitb.ac.in/~udayanresearch/"> MeLoDe Lab, Indian Institute of Technology Bombay</a>
+  image:
     src: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/16/9098120/9082814/chava3abc-2985167-large.gif
     alt: 
   date: May '22- August '23
   description: Modelled  GF 32nm PDSOI MOSFET (fabricated at GlobalFoundries) for operation in band to band tunneling (BTBT) regime. Calibrated experimental results (characterized at IIT Bombay Nanofabrication facility) with simulation results using Sentaurus TCAD. Investigated the BTBT physics- presence of trap assisted tunneling and direct tunneling dominant regions. Performed design space analysis and variability analysis in TCAD.
-  links: https://arxiv.org/abs/2311.18577
+
+  links:
     code: 
     demo: 
     blog: 
     report:
 
 - title: Time zero variability, reliability analysis in SRAM 
-  guide: <a href="https://www.ee.iitb.ac.in/wiki/faculty/souvik">Prof. Souvik Mahapatra</a>, Indian Institute of Technology Bombay
-  image:
-  image:
   guide: <a href="https://www.ee.iitb.ac.in/wiki/faculty/souvik">Prof. Souvik Mahapatra</a>, Departent of Electrical Engineering, Indian Institute of Technology Bombay
+  image:
     src: https://ars.els-cdn.com/content/image/1-s2.0-S0167926019304249-gr16.jpg
     alt: 
   date: May'23- present
-  description: Developing CARAT (Circuit Aging Reliability Analysis Tool)- carrying out various SRAM performance evaluation simulations before and after degradation due to time zero variability, BTI, HCD and RTN. 
+  description: Carrying out various SRAM performance evaluation simulations before and after degradation due to time zero variability, BTI, HCD and RTN in spice.
   links:
     code: 
     demo: 
@@ -40,13 +40,12 @@
     report:
 
 - title: Performance comparison of Patterned SOI over traditional SOI MOSFETs
-  image:
   guide: <a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">Prof. Udayan Ganguly</a>, <a href="https://www.ee.iitb.ac.in/~udayanresearch/"> MeLoDe Lab, Indian Institute of Technology Bombay</a>
+  image:
     src: https://www.researchgate.net/publication/312332929/figure/fig1/AS:452651021279232@1484931821907/Schematic-diagram-of-FD-SOI-MOSFET-with-highly-doped-back-plane-BP-beneath-thin-BOX.png
     alt: 
   date: Spring '22
   description: Demonstrated the comparison of Patterned SOI and traditional SOI, with simulations done in Sentaurus TCAD. Observed amn improved SS and DIBL in patterned SOI. 
-  
   links:
     code: 
     demo: 
@@ -54,13 +53,12 @@
     report: https://github.com/jayson-310801/EE724_project/blob/main/EE724_PROJECT.pdf
 
 - title: Reliability of Cryo CMOS based circuits
-  image:
   guide: <a href="https://www.ee.iitb.ac.in/wiki/faculty/souvik">Prof. Souvik Mahapatra</a>, Departent of Electrical Engineering, Indian Institute of Technology Bombay
+  image:    
     src: https://i0.wp.com/semiengineering.com/wp-content/uploads/Fig01_UNotre_Dame_improved_transistor.jpg?resize=598%2C763&ssl=1
     alt: 
   date: Fall '21
   description: Studied a compact model used to partition the measured threshold voltage shift kinetics for different stresses into Hot Carrier Degradation, Bias Temperature Instability and electron/hole trapping subcomponents at low temperature using spice simulations
-  
   links:
     code: 
     demo: 
