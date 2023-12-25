@@ -25,12 +25,12 @@
     report:
 
 - title: Time zero variability, reliability analysis in SRAM 
-  guide: <a href="https://www.ee.iitb.ac.in/wiki/faculty/souvik">Prof. Souvik Mahapatra</a>, Departent of Electrical Engineering, Indian Institute of Technology Bombay
+  guide: <a href="https://www.ee.iitb.ac.in/wiki/faculty/souvik">Prof. Souvik Mahapatra</a>, Indian Institute of Technology Bombay
   image:
     src: https://ars.els-cdn.com/content/image/1-s2.0-S0167926019304249-gr16.jpg
     alt: 
   date: May'23- present
-  description: Carrying out various SRAM performance evaluation simulations before and after degradation due to time zero variability, BTI, HCD and RTN in spice.
+  description: Developing CARAT (Circuit Aging Reliability Analysis Tool)- carrying out various SRAM performance evaluation simulations before and after degradation due to time zero variability, BTI, HCD and RTN. 
   links:
     code: 
     demo: 
