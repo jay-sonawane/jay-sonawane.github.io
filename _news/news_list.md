@@ -2,7 +2,7 @@
 ---
 
 <div class="news">
-  <div class="table-responsive" style="max-height: 400px; overflow-y: auto;">
+  <div class="table-responsive" style="max-height: 300px; overflow-y: auto;">
     <table class="table table-sm table-borderless">
       <thead>
         <tr>
@@ -60,7 +60,7 @@
           <td style="font-size: 0.9rem">Selected as the convener of the <a href="https://itc.gymkhana.iitb.ac.in/~erc">Electronics and Robotics Club, IIT Bombay</a>.</td>
         </tr>
         <tr>
-          <th scope="row" class="date-column">July 24th, 2019</th>
+          <th scope="row" class="date-column">July 2019</th>
           <td style="font-size: 0.9rem">Started my undergraduate studies in Electrical Engineering at IIT Bombay.</td>
         </tr>  
       </tbody>
