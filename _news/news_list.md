@@ -13,39 +13,39 @@
       <tbody>
         <tr>
           <th scope="row" class="date-column">May 2023</th>
-          <td>Recieved the Undergraduate Research Award 01 (URA 01), given in recognition of preliminary research/ developmental exposure of the student leading to excellent contribution to research for my project: "TCAD calibration of SOI MOSFET followed by design space exploration for energy efficient neurons"
+          <td style = "font-size: 0.9rem">Recieved the Undergraduate Research Award 01 (URA 01), given in recognition of preliminary research/ developmental exposure of the student leading to excellent contribution to research for my project: "TCAD calibration of SOI MOSFET followed by design space exploration for energy efficient neurons"
           </td>
         </tr>
         <tr>
           <th scope="row" class="date-column">May 2022</th>
-          <td>Will be joining <a href="https://atomberg.com/">Atomberg</a> as an RnD engineer
+          <td style = "font-size: 0.9rem">Joined <a href="https://atomberg.com/">Atomberg</a> as an RnD engineer
           </td>
         </tr>
         <tr>
           <th scope="row" class="date-column">May 2022</th>
-          <td>Started my undergraduate research with Prof. Udayan Ganguly <a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">UG</a> in the SOXI, Variability, FeRAM subgroup of MeLoDe <a href="https://blog.iitbnf.iitb.ac.in/udayanresearch/">melode</a> lab. 
+          <td style = "font-size: 0.9rem">Started my undergraduate research with Prof. Udayan Ganguly <a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">UG</a> in the SOXI, Variability, FeRAM subgroup of MeLoDe <a href="https://blog.iitbnf.iitb.ac.in/udayanresearch/">melode</a> lab. 
           </td>
         </tr>
         <tr>
-          <th scope="row" class="date-column">December 2021</th>
-          <td>Came back to insti after 2 long years</td>
+          <th scope="row" class="date-column">Dec 2021</th>
+          <td style = "font-size: 0.9rem">Came back to insti after 2 long years</td>
         </tr>
         <tr>
           <th scope="row" class="date-column">June 2021</th>
-          <td>Selected for SURP (Summer Undergraduate Research Program) with the guidance of Prof. Souvik Mahapatra <a href="https://www.ee.iitb.ac.in/web/people/souvik/">SM</a> on the topic: Reliability of Cryo CMOS
+          <td style = "font-size: 0.9rem">Selected for SURP (Summer Undergraduate Research Program) with the guidance of Prof. Souvik Mahapatra <a href="https://www.ee.iitb.ac.in/web/people/souvik/">SM</a> on the topic: Reliability of Cryo CMOS
           </td>
         </tr>
         <tr>
           <th scope="row" class="date-column">May 2021</th>
-          <td>Will be interning as a Data Scientist at <a href="https://www.carnot.co.in/">Carnot Technologies</a>!</td>
+          <td style = "font-size: 0.9rem">Will be interning as a Data Scientist at <a href="https://www.carnot.co.in/">Carnot Technologies</a>!</td>
         </tr>
         <tr>
           <th scope="row" class="date-column">June 2020</th>
-          <td>Selected into the technical council as the convener of the <a href="https://itc.gymkhana.iitb.ac.in/~erc">Electronics and Robotics Club, IIT Bombay</a></td>
+          <td style = "font-size: 0.9rem">Selected into the technical council as the convener of the <a href="https://itc.gymkhana.iitb.ac.in/~erc">Electronics and Robotics Club, IIT Bombay</a></td>
         </tr>
         <tr>
-          <th scope="row" class="date-column">July 2019</th>
-          <td>Started my undergraduate term at IIT Bombay</td>
+          <th scope="row" class="date-column">July 24th, 2019</th>
+          <td style = "font-size: 0.9rem">Started my undergraduate term at IIT Bombay</td>
         </tr>
       </tbody>
     </table>
