@@ -2,6 +2,8 @@
 layout: others
 title: others
 permalink: /others/
+nav: True
+navpos: 5
 ---
 
 
