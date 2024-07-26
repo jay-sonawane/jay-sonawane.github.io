@@ -3,7 +3,7 @@
 
 <div class="news">
   <div class="table-responsive">
-    <table class="table table-sm table-borderless">
+    <table class="table table-sm table-borderless" style="max-height: 400px; overflow-y: auto;">
       <thead>
         <tr>
           <th>Date</th>
