@@ -52,7 +52,7 @@ Here's an essence of my <a href="{{ 'projects' | relative_url }}">research and o
 
   <div class="work-item">
     <div class="work-bubble-with-date">
-      <img src="https://www.semix.iitb.ac.in/semix/wp-content/uploads/2023/04/Semix_logo-1.png" class="work-bubble" />
+      <img src="/assets/img/Semix.jpg" class="work-bubble" />
     </div>
     <p class="work-text">
       <strong> Coordinator, SEMIX IIT Bombay, 2023-24</strong> <br/>
@@ -66,13 +66,13 @@ Here's an essence of my <a href="{{ 'projects' | relative_url }}">research and o
     <p class="work-text">
       <strong>Teaching Assistant | Department of Electrical Engineering, IIT Bombay</strong> <br/>
       <span style="font-size: 0.9rem">
-        » EE 724 - Nanoelectronics, Fall 2024 (Mentored 2 out of the best 4 project teams, course and projects in collaboration with <a href= "https://www.synopsys.com/">Synopsis</a>)<br>
+        » EE 724 - Nanoelectronics, Fall 2024, Prof. Udayan Ganguly (Mentored 2 out of the best 4 project teams, course and projects in collaboration with <a href= "https://www.synopsys.com/">Synopsis</a>)<br>
        </span>
     </p>
     <p class="work-text">
       <strong>Teaching Assistant | Department of Electrical Engineering, IIT Bombay</strong> <br/>
       <span style="font-size: 0.9rem">
-        » EE 746 - Neuromorphic Engineering, Fall 2023 (Co-mentored 2 team projects on CMOS-based neuron operation simulation)<br>
+        » EE 746 - Neuromorphic Engineering, Fall 2023, Prof. Udayan Ganguly (Co-mentored 2 team projects on CMOS-based neuron operation simulation)<br>
        </span>
     </p>
   </div>
