@@ -6,8 +6,6 @@ nav: True
 navpos: 5
 ---
 
-
-
 <h2><strong>Workshops</strong> and Teaching Responsibilities</h2>
 
 <h2><strong>Collaborators</strong></h2>
