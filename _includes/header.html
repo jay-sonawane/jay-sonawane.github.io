@@ -116,13 +116,14 @@
         </div>
       </progress>
 {%- endif %}
-
 <style>
   .news {
       margin: 20px;
   }
   .table-responsive {
-      overflow-x: auto;
+      max-height: 400px;
+      overflow-y: auto;
+      overflow-x: hidden; /* Ensure horizontal scroll is hidden */
   }
   .table {
       width: 100%;
@@ -151,5 +152,6 @@
       text-decoration: underline;
   }
 </style>
+
 
     </header>
