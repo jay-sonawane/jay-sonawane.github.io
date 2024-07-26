@@ -63,11 +63,6 @@ Here's an essence of my <a href="{{ 'projects' | relative_url }}">research and o
       <strong>Teaching Assistant | Department of Electrical Engineering, IIT Bombay</strong> <br/>
       <span style="font-size: 0.9rem">
         » EE 724 - Nanoelectronics, Fall 2024, Prof. Udayan Ganguly (Mentored 2 out of the best 4 project teams, course and projects in collaboration with <a href= "https://www.synopsys.com/">Synopsis</a>)<br>
-       </span>
-    </p>
-    <p class="work-text">
-      <strong>Teaching Assistant | Department of Electrical Engineering, IIT Bombay</strong> <br/>
-      <span style="font-size: 0.9rem">
         » EE 746 - Neuromorphic Engineering, Fall 2023, Prof. Udayan Ganguly (Co-mentored 2 team projects on CMOS-based neuron operation simulation)<br>
        </span>
     </p>
