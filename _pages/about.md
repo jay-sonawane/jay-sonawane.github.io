@@ -66,7 +66,7 @@ Here's an essence of my <a href="{{ 'projects' | relative_url }}">research and o
     <p class="work-text">
       <strong>Teaching Assistant | Department of Electrical Engineering, IIT Bombay</strong> <br/>
       <span style="font-size: 0.9rem">
-        » EE 724 - Nanoelectronics, Fall 2024 (Mentored 2 out of the best 4 project teams, course and projects in collaboration with [Synopsis](https://www.synopsys.com/))<br>
+        » EE 724 - Nanoelectronics, Fall 2024 (Mentored 2 out of the best 4 project teams, course and projects in collaboration with <a href= "">(https://www.synopsys.com/) Synopsis</a>)<br>
        </span>
     </p>
     <p class="work-text">
