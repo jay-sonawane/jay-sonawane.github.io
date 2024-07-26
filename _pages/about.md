@@ -94,3 +94,11 @@ Here's an essence of my <a href="{{ 'projects' | relative_url }}">research and o
 </div>
 
 
+<h4>Updates</h4>
+<div class="news">
+  {% assign news = site.news %}
+  {% for item in news %}
+  {{ item.content }}
+  {% endfor %}
+</div>
+<br>
