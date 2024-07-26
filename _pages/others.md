@@ -1,6 +1,7 @@
 ---
 layout: others
 title: others
+permalink: /others/
 ---
 
 
