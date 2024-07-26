@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student in Electrical and Computer Engineering at [Georgia Institute of Technology](https://www.gatech.edu/). My research focuses on BEOL and ferroelectric devices for heterogenous 3D integration, under the guidance of [Prof. Shimeng Yu](https://shimeng.ece.gatech.edu/professor/). 
+I am a Ph.D. student in Electrical and Computer Engineering at [Georgia Institute of Technology](https://www.gatech.edu/). My research focuses on BEOL oxide-channel and ferroelectric devices for heterogenous 3D integration, under the guidance of [Prof. Shimeng Yu](https://shimeng.ece.gatech.edu/professor/). 
 
 During my undergraduate program, I specialized in Nanoelectronics and Integrated Ciruits, at [Indian Institute of Technology Bombay](https://www.iitb.ac.in/) pursuing a Dual Degree (B.Tech+M.Tech) in Electrical Engineering. 
 
@@ -66,7 +66,7 @@ Here's an essence of my <a href="{{ 'projects' | relative_url }}">research and o
     <p class="work-text">
       <strong>Teaching Assistant | Department of Electrical Engineering, IIT Bombay</strong> <br/>
       <span style="font-size: 0.9rem">
-        » EE 724 - Nanoelectronics, Fall 2024 (Mentored 2 out of the best 4 project teams, course and projects in collaboration with <a href= "">(https://www.synopsys.com/) Synopsis</a>)<br>
+        » EE 724 - Nanoelectronics, Fall 2024 (Mentored 2 out of the best 4 project teams, course and projects in collaboration with <a href= "https://www.synopsys.com/">Synopsis</a>)<br>
        </span>
     </p>
     <p class="work-text">
