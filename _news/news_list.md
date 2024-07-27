@@ -25,7 +25,7 @@
         </tr>
         <tr>
           <th scope="row" class="date-column">May 2023</th>
-          <td style="font-size: 0.9rem">Started a research project on process and aging variability-aware degradation in CARAT with <a href="https://www.ee.iitb.ac.in/web/people/souvik/">Prof. Souvik Mahapatra</a> on the topic: Reliability of Cryo CMOS.</td>
+          <td style="font-size: 0.9rem">Started a research project on process and aging variability-aware degradation in CARAT with <a href="https://www.ee.iitb.ac.in/wiki/faculty/souvik">Prof. Souvik Mahapatra</a> on the topic: Reliability of Cryo CMOS.</td>
         </tr>
         <tr>
           <th scope="row" class="date-column">May 2023</th>
@@ -41,7 +41,7 @@
         </tr>
         <tr>
           <th scope="row" class="date-column">May 2022</th>
-          <td style="font-size: 0.9rem">Started research with <a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">Prof. Udayan Ganguly</a> in the SOXI, Variability, FeRAM subgroup of the <a href="https://blog.iitbnf.iitb.ac.in/udayanresearch/">MeLoDe</a> lab.</td>
+          <td style="font-size: 0.9rem">Started research with <a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">Prof. Udayan Ganguly</a> in the SOXI, Variability, FeRAM subgroup of the <a href="https://nanomemorylogic.wordpress.com/">MeLoDe</a> lab.</td>
         </tr>
         <tr>
           <th scope="row" class="date-column">December 2021</th>
@@ -49,7 +49,7 @@
         </tr>
         <tr>
           <th scope="row" class="date-column">June 2021</th>
-          <td style="font-size: 0.9rem">Started the Summer Undergraduate Research Program (SURP) with <a href="https://www.ee.iitb.ac.in/web/people/souvik/">Prof. Souvik Mahapatra</a> on the topic: Reliability of Cryo CMOS.</td>
+          <td style="font-size: 0.9rem">Started the Summer Undergraduate Research Program (SURP) with <a href="https://www.ee.iitb.ac.in/wiki/faculty/souvik">Prof. Souvik Mahapatra</a> on the topic: Reliability of Cryo CMOS.</td>
         </tr>
         <tr>
           <th scope="row" class="date-column">May 2021</th>
@@ -57,7 +57,7 @@
         </tr>
         <tr>
           <th scope="row" class="date-column">June 2020</th>
-          <td style="font-size: 0.9rem">Selected as the convener of the <a href="https://itc.gymkhana.iitb.ac.in/~erc">Electronics and Robotics Club, IIT Bombay</a>.</td>
+          <td style="font-size: 0.9rem">Selected as the convener of the <a href="https://erciitb.github.io/">Electronics and Robotics Club, IIT Bombay</a>.</td>
         </tr>
         <tr>
           <th scope="row" class="date-column">July 2019</th>
