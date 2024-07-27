@@ -28,12 +28,16 @@
           <td style="font-size: 0.9rem">Started a research project on process and aging variability-aware degradation in CARAT with <a href="https://www.ee.iitb.ac.in/wiki/faculty/souvik">Prof. Souvik Mahapatra</a> on the topic: Reliability of Cryo CMOS.</td>
         </tr>
         <tr>
+          <th scope="row" class="date-column">June 2023</th>
+          <td style="font-size: 0.9rem">Received my first conference rejection (SISPAD 2023) ;p</td>
+        </tr>
+        <tr>
           <th scope="row" class="date-column">May 2023</th>
-          <td style="font-size: 0.9rem">Received the Undergraduate Research Award 01 (URA 01) for "excellent contribution to research in preliminary research/developmental exposure" for my project: "TCAD calibration of SOI MOSFET followed by design space exploration for energy-efficient neurons."</td>
+          <td style="font-size: 0.9rem">Received the Undergraduate Research Award 01 (URA 01) for "excellent contribution to research in preliminary research/developmental exposure" for my project: "TCAD calibration of SOI MOSFET followed by design space exploration for energy-efficient neurons." :sparkles: :smile:</td>
         </tr>        
         <tr>
           <th scope="row" class="date-column">April 2023</th>
-          <td style="font-size: 0.9rem">Submitted my first conference paper titled "7.5× Energy Reduction by Engineering SOI MOSFET Design for Ultra-Low Power Neurons Using Experimentally Calibrated TCAD" to <a href="https://sispad2023.jp/">SISPAD 2023</a>.</td>
+          <td style="font-size: 0.9rem">Submitted my first conference paper titled "7.5× Energy Reduction by Engineering SOI MOSFET Design for Ultra-Low Power Neurons Using Experimentally Calibrated TCAD" to <a href="https://sispad2023.jp/">SISPAD 2023</a>. :sparkles:</td>
         </tr>
         <tr>
           <th scope="row" class="date-column">May 2022</th>
