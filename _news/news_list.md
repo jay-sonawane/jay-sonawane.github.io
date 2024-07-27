@@ -20,6 +20,18 @@
           <td style="font-size: 0.9rem">Started my Master's project on BEOL-compatible ITO transistor fabrication and modeling for heterogeneous 3D integration with <a href="https://www.ee.iitb.ac.in/web/people/veeresh-deshpande/">Prof. Veeresh Deshpande</a>.</td>
         </tr>
         <tr>
+          <th scope="row" class="date-column">February 2024</th>
+          <td style="font-size: 0.9rem">Received GRA offer from <a href = "https://shimeng.ece.gatech.edu/professor/">Prof. Shimeng Yu</a>. Will be an incoming Ph.D. student at <a href="https://ece.gatech.edu/">Georgia Institute of Technology</a>.</td>
+        </tr>
+        <tr>
+          <th scope="row" class="date-column">February 2024</th>
+          <td style="font-size: 0.9rem">Fabricated back-gated transistor: ITO BG-FET using ALD, RF sputtering and 2 optical lithography levels. The transistor leakage is very low (1e-12 A/um) :sparkles: </td>
+        </tr>
+        <tr>
+          <th scope="row" class="date-column">December 2023</th>
+          <td style="font-size: 0.9rem">Fabricated my first transistor: ITO Ring-FET using ALD, RF sputtering and 1st level optical lithography. The transistor has an incredible S/D Ioff of 5e-17 A/um and SS of 69.9 mV/dec :smile: </td>
+        </tr>
+        <tr>
           <th scope="row" class="date-column">November 2023</th>
           <td style="font-size: 0.9rem">Submitted my first journal paper titled "Design Space and Variability Analysis of SOI MOSFET for Ultra-Low Power Band-to-Band Tunneling Neurons" to the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=16">IEEE Transactions on Electronic Devices</a>.</td>
         </tr>
@@ -29,7 +41,7 @@
         </tr>
         <tr>
           <th scope="row" class="date-column">June 2023</th>
-          <td style="font-size: 0.9rem">Received my first conference rejection (SISPAD 2023) ;p</td>
+          <td style="font-size: 0.9rem">Received my first conference rejection (SISPAD 2023) ;p :wink: </td>
         </tr>
         <tr>
           <th scope="row" class="date-column">May 2023</th>
