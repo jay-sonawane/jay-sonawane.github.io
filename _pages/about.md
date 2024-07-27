@@ -9,8 +9,8 @@ profile:
   image: Jay_td_main.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Pettit Microelectronics Research Center</p>
-    <p>Georgia Institute of Technology</p>
+    <p>Pettit Microelectronics Research Center,</p>
+    <p>Georgia Institute of Technology,</p>
     <p>Atlanta, U.S.A 30332</p>
 
 news: false  # includes a list of news items
