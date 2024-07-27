@@ -16,12 +16,8 @@
           <td style="font-size: 0.9rem">Presented my Master's project on BEOL-compatible ITO transistor fabrication and modeling for heterogeneous 3D integration.</td>
         </tr>
         <tr>
-          <th scope="row" class="date-column">August 2023</th>
-          <td style="font-size: 0.9rem">Started my Master's project on BEOL-compatible ITO transistor fabrication and modeling for heterogeneous 3D integration with <a href="https://www.ee.iitb.ac.in/web/people/veeresh-deshpande/">Prof. Veeresh Deshpande</a>.</td>
-        </tr>
-        <tr>
           <th scope="row" class="date-column">February 2024</th>
-          <td style="font-size: 0.9rem">Received GRA offer from <a href = "https://shimeng.ece.gatech.edu/professor/">Prof. Shimeng Yu</a>. Will be an incoming Ph.D. student at <a href="https://ece.gatech.edu/">Georgia Institute of Technology</a>.</td>
+          <td style="font-size: 0.9rem">Received GRA offer from <a href = "https://shimeng.ece.gatech.edu/professor/">Prof. Shimeng Yu</a>. Will be an incoming Ph.D. student at <a href="https://ece.gatech.edu/">Georgia Institute of Technology</a>. :smile: </td>
         </tr>
         <tr>
           <th scope="row" class="date-column">February 2024</th>
@@ -34,6 +30,10 @@
         <tr>
           <th scope="row" class="date-column">November 2023</th>
           <td style="font-size: 0.9rem">Submitted my first journal paper titled "Design Space and Variability Analysis of SOI MOSFET for Ultra-Low Power Band-to-Band Tunneling Neurons" to the <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=16">IEEE Transactions on Electronic Devices</a>.</td>
+        </tr>
+        <tr>
+          <th scope="row" class="date-column">August 2023</th>
+          <td style="font-size: 0.9rem">Started my Master's project on BEOL-compatible ITO transistor fabrication and modeling for heterogeneous 3D integration with <a href="https://www.ee.iitb.ac.in/web/people/veeresh-deshpande/">Prof. Veeresh Deshpande</a>.</td>
         </tr>
         <tr>
           <th scope="row" class="date-column">May 2023</th>

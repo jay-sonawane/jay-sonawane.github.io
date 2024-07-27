@@ -19,7 +19,7 @@ navpos: 3
     </div>
     <p class="work-text">
       <strong>Research and Development Intern</strong> | <i>Atomberg Technologies</i> <br/>
-      Interned with the Fans and new product development research and development team. Worked on integrating PIR (pyro-electric IR) sensors in existing HVAC technologies for motion/presence detection based operation. Developed firmware register transfer level (RTL) code for STM8s in Renesa fans and esp32c3 based fans.
+      Interned with the "fans and new product development" research and development team. Worked on integrating PIR (pyro-electric IR) sensors in existing HVAC technologies for motion/presence detection based operation. Developed firmware register transfer level (RTL) code for STM8s in Renesa fans and esp32c3 based fans.
     </p>
     <br>
   </div>
@@ -31,7 +31,7 @@ navpos: 3
     </div>
     <p class="work-text">
       <strong>Data Scientist</strong> | <i>Carnot Technologies</i> <br/>
-        Interned with the Data Science team. Worked on hyperspectral imaging provided by sentinel-hub archives to develop a machine learning framework to forecast sugar content and date of harvest. Analysed over 200 sugarcane farms across the nation.
+        Interned with the Data Science team. Extracted hyperspectral imaging data provided by sentinel-hub archives to develop a machine learning framework to forecast sugar content and date of harvest for sugarcane crop. Analysed over 200 sugarcane farms across the nation for a complete crop cycle.
     </p>
     <br>
   </div>

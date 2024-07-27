@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello! and welcome to my corner of the internet:D
 
-I am a Ph.D. student in Electrical and Computer Engineering at [Georgia Institute of Technology](https://www.gatech.edu/). My research focuses on BEOL oxide-channel and ferroelectric devices for monolithic rogenous 3D integration, advised by [Prof. Shimeng Yu](https://shimeng.ece.gatech.edu/professor/) at the [Laboratory for Emerging Circuits and Devices](https://shimeng.ece.gatech.edu/).
+I am a Ph.D. student in Electrical and Computer Engineering at [Georgia Institute of Technology](https://www.gatech.edu/). My research focuses on BEOL oxide-channel and ferroelectric devices for monolithic /heterogenous 3D integration, advised by [Prof. Shimeng Yu](https://shimeng.ece.gatech.edu/professor/) at the [Laboratory for Emerging Circuits and Devices](https://shimeng.ece.gatech.edu/).
 
 During my undergraduate program, I specialized in Nanoelectronics and Integrated Ciruits, at [Indian Institute of Technology Bombay](https://www.iitb.ac.in/) pursuing a Dual Degree (B.Tech+M.Tech) in Electrical Engineering. 
 
