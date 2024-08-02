@@ -11,6 +11,12 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D. 
+      institution: Georgia Institute of Technology, U.S.A.
+      year: 2024-
+      description:
+        - Major- Electrical and Computer Engineering
+        - Specialization- Nanoelectronics and Integrated Circuits
     - title: B.Tech-M.Tech (Dual Degree)
       institution: Indian Institute of Technology Bombay
       year: 2019 - 2024
@@ -22,17 +28,28 @@
   type: time_table
   contents:
 
-    - title: Undergraduate Researcher
+    - title:  Researcher
       institution: MeLoDe Lab, IIT Bombay
       year: May 2022 - August 2023
       description:
-        - Modeling and fabricating BEOL RRAM and ITO MOSFET for 3D monolithic integration.
-        - Modelled Globalfoundries 32nm PDSOI MOSFET for operation of neuron to enable a Liquid State Machine based on band to band tunneling (BTBT) in order to exercise benefits of lower variability, and an ultra-low power integrator as compared to ON and (subthreshold) SS operation
-        - Performed device characterisation, TCAD calibration, design space exploration, reliability and variability analysis
-        - title: Skills learnt
+        - Fabricated BEOL ITO MOSFET for 3D monolithic integration.
+        - Modeled Globalfoundries 32nm PDSOI MOSFET for operation of neuron to enable a Liquid State Machine based on band to band tunneling (BTBT) in order to exercise benefits of lower variability, and an ultra-low power integrator as compared to ON and (subthreshold) SS operation
+        - Performed device characterization, TCAD calibration, design space exploration, reliability and variability analysis
+        - title: Skills 
           contents:
-            - TCAD Modelling
+            - Fabrication- ALD, RF Sputtering, Optical Lithography, Annealing
+            - TCAD Modeling (Sentaurus)
             - Device Characterisation- IV, CV, stress (reliability in BTBT, SS and ON)
+
+    - title: Undergraduate Researcher
+      institution: SM Group, IIT Bombay
+      year: May 2023 - August 2024
+      description:
+        - Developed a framework to enable variability-aware process (Time-0 DVT) and aging (BTI, HCI) degradation for circuits 
+        - title: Skills 
+          contents:
+            - HSPICE
+            - Reliability empirical and physical modeling
 
     - title: Research and Development Intern
       institution: Atomberg Technologies
