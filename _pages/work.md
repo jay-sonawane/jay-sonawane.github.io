@@ -4,7 +4,7 @@ title: work
 permalink: /work/
 description: 
 nav: True
-navpos: 3
+nav_order: 3
 ---
 
 #### Work Experience

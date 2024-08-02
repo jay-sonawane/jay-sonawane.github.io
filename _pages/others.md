@@ -3,6 +3,7 @@ layout: default
 title: others
 permalink: /others/
 nav: True
+nav_order: 1
 ---
 
 <!-- <h2><strong>Workshops</strong> and Teaching Responsibilities</h2> -->
