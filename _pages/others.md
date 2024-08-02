@@ -1,9 +1,8 @@
 ---
-layout: others
+layout: default
 title: others
 permalink: /others/
 nav: True
-navpos: 3
 ---
 <div class="container">
     <h1 class="page-heading">Others</h1>
@@ -19,11 +18,11 @@ navpos: 3
         <!-- Add more sections as needed -->
     </div>
 </div>
-<!-- 
+
 <h2><strong>Workshops</strong> and Teaching Responsibilities</h2>
 
 <h2><strong>Collaborators</strong></h2>
-# Collaborators
+<!-- #Collaborators -->
 
 <table>
   <tr>
@@ -57,4 +56,4 @@ navpos: 3
 </table>
 
 
- -->
+
