@@ -19,9 +19,9 @@ nav_order: 1
   <tr>
     <td>
       <ul>
-        <li>Shubham Patil, IIT Bombay, Ph.D.</li>
+        <li><a href = "https://sites.google.com/view/shubhampatil2107/home/">Shubham Patil</a>, IIT Bombay, Ph.D.</li>
         <li>Payel Chatterjee, IIT Bombay, Ph.D.</li>
-        <li>Prof. Souvik Mahapatra, IIT Bombay</li>
+        <li><a href="https://www.ee.iitb.ac.in/wiki/faculty/souvik">Prof. Souvik Mahapatra</a>, IIT Bombay</li>
       </ul>
     </td>
     <td>
@@ -29,9 +29,9 @@ nav_order: 1
         <li>Aakash Deshpande, IIT Bombay, Ph.D.</li>
         <li>Abhishek Kadam, IIT Bombay, Ph.D.</li>
         <li>Shreyas Deshmukh, IIT Bombay, Ph.D.</li>
-        <li>Prof. Sandip Lashkare, IIT Gandhinagar</li>
-        <li>Prof. Veeresh Deshpande, IIT Bombay</li>
-        <li>Prof. Udayan Ganguly, IIT Bombay</li>
+        <li><a href="https://iitgn.ac.in/faculty/ee/fac-sandip">Prof. Sandip Lashkare</a>, IIT Gandhinagar</li>
+        <li><a href="https://www.ee.iitb.ac.in/web/people/veeresh-deshpande/">Prof. Veeresh Deshpande</a>, IIT Bombay</li>
+        <li><a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">Prof. Udayan Ganguly</a>, IIT Bombay</li>
 
       </ul>
     </td>
