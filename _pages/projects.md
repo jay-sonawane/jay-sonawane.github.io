@@ -3,5 +3,5 @@ layout: projects
 title: projects
 permalink: /projects/
 nav: True
-nav_order: 4
+nav_order: 1
 ---
