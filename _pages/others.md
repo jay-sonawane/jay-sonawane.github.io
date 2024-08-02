@@ -5,7 +5,6 @@ permalink: /others/
 nav: True
 navpos: 3
 ---
-
 <div class="container">
     <h1 class="page-heading">Others</h1>
     <p class="page-description">Here is the content for the Others page.</p>
@@ -20,7 +19,6 @@ navpos: 3
         <!-- Add more sections as needed -->
     </div>
 </div>
-
 <!-- 
 <h2><strong>Workshops</strong> and Teaching Responsibilities</h2>
 
