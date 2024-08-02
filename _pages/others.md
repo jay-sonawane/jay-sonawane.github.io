@@ -3,9 +3,25 @@ layout: others
 title: others
 permalink: /others/
 nav: True
-navpos: 5
+navpos: 3
 ---
 
+<div class="container">
+    <h1 class="page-heading">Others</h1>
+    <p class="page-description">Here is the content for the Others page.</p>
+    
+    <div class="others-section">
+        <h2 class="others-heading">Heading 1</h2>
+        <p class="others-content">This is a sample content for Heading 1 section.</p>
+        
+        <h2 class="others-heading">Heading 2</h2>
+        <p class="others-content">This is a sample content for Heading 2 section.</p>
+        
+        <!-- Add more sections as needed -->
+    </div>
+</div>
+
+<!-- 
 <h2><strong>Workshops</strong> and Teaching Responsibilities</h2>
 
 <h2><strong>Collaborators</strong></h2>
@@ -43,4 +59,4 @@ navpos: 5
 </table>
 
 
-
+ -->
