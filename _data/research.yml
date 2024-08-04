@@ -13,7 +13,7 @@
     report:
 
 - title: Band-to-Band tunneling based neuron- TCAD calibration and modeling, design space and variability analysis
-  guide: <a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">Prof. Udayan Ganguly</a>, <a href="https://www.ee.iitb.ac.in/~udayanresearch/"> MeLoDe Lab, Indian Institute of Technology Bombay</a>
+  guide: <a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">Prof. Udayan Ganguly</a>, <a href="https://www.ee.iitb.ac.in/~udayanresearch/"> MeLoDe Lab</a>, Indian Institute of Technology Bombay</a>
   image:
     src: ./assets/img/research/BTBT.png
     alt: 
@@ -27,7 +27,7 @@
     report:
 
 - title: Variability-Aware Process and Aging Degradation Device-to-Circuit Degradation in CARAT
-  guide: <a href="https://www.ee.iitb.ac.in/wiki/faculty/souvik">Prof. Souvik Mahapatra</a>, Departent of Electrical Engineering, Indian Institute of Technology Bombay
+  guide: <a href="https://www.ee.iitb.ac.in/wiki/faculty/souvik">Prof. Souvik Mahapatra</a>, Indian Institute of Technology Bombay
   image:
     src: https://ars.els-cdn.com/content/image/1-s2.0-S0167926019304249-gr16.jpg
     alt: 
@@ -40,7 +40,7 @@
     report:
 
 - title: Performance comparison of Patterned SOI over traditional SOI MOSFETs
-  guide: <a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">Prof. Udayan Ganguly</a>, <a href="https://www.ee.iitb.ac.in/~udayanresearch/"> MeLoDe Lab, Indian Institute of Technology Bombay</a>
+  guide: <a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">Prof. Udayan Ganguly</a>, <a href="https://www.ee.iitb.ac.in/~udayanresearch/"> MeLoDe Lab</a>, Indian Institute of Technology Bombay</a>
   image:
     src: https://www.researchgate.net/publication/312332929/figure/fig1/AS:452651021279232@1484931821907/Schematic-diagram-of-FD-SOI-MOSFET-with-highly-doped-back-plane-BP-beneath-thin-BOX.png
     alt: 
@@ -53,12 +53,12 @@
     report: https://github.com/jayson-310801/EE724_project/blob/main/EE724_PROJECT.pdf
 
 - title: Reliability of Cryo CMOS based circuits
-  guide: <a href="https://www.ee.iitb.ac.in/wiki/faculty/souvik">Prof. Souvik Mahapatra</a>, Departent of Electrical Engineering, Indian Institute of Technology Bombay
+  guide: <a href="https://www.ee.iitb.ac.in/wiki/faculty/souvik">Prof. Souvik Mahapatra</a>, Indian Institute of Technology Bombay
   image:    
     src: https://i0.wp.com/semiengineering.com/wp-content/uploads/Fig01_UNotre_Dame_improved_transistor.jpg?resize=598%2C763&ssl=1
     alt: 
   date: Fall '21
-  description: Studied a compact model used to partition the measured threshold voltage shift kinetics for different stresses into Hot Carrier Degradation, Bias Temperature Instability and electron/hole trapping subcomponents at low temperature using spice simulations
+  description: Studied a compact model used to partition the measured threshold voltage shift kinetics for different stresses into Hot Carrier Degradation, Bias Temperature Instability and electron/hole trapping subcomponents at low temperature using spice simulations.
   links:
     code: 
     demo: 
