@@ -29,7 +29,6 @@ I was involved in research with the [MeLoDe (Memory Logic Device and Design)](ht
 Amidst the boundless expanses of academic research, I have developed a fervent fascination for [Logotherapy](https://en.wikipedia.org/wiki/Logotherapy). In the quest for comprehending the intricacies of human belief systems and behavioral science, I find myself drawn to delve into the [schools of philosophy](https://bigthink.com/thinking/10-schools-of-philosophy-and-why-you-should-know-them/).
  <!-- Through the exploration of device physics, intricate design, and precise fabrication, we are actively engaged in advancing the realm of advanced computing.  -->
 
-I like to watch movies. 
 <br>
 <br>
 
@@ -41,7 +40,7 @@ I am interested in designing and fabrication of novel devices with accurate mode
 <ul>
   <li>Heterogenous/Monolithic 3D Integration</li>
   <li>Compute-in-Memory, Emerging Non-Volatile Memories (eNVMs), AI Hardware</li>
-  <li>Device-to-circuit translation, DTCO</li>
+  <li>Device-to-circuit translation, Design Technology Co-Optimization</li>
   <li>Device, Circuit Reliability and Variability</li>
 </ul>
 

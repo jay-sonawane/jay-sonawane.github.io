@@ -31,7 +31,7 @@ nav_order: 2
     </div>
     <p class="work-text">
       <strong>Data Scientist</strong> | <i>Carnot Technologies</i> <br/>
-        Interned with the Data Science team. Extracted hyperspectral imaging data provided by sentinel-hub archives to develop a machine learning framework to forecast sugar content and date of harvest for sugarcane crop. Analysed over 200 sugarcane farms across the nation for a complete crop cycle.
+        Interned with the Data Science team. Extracted hyperspectral imaging data provided by sentinel-hub archives to develop a machine learning framework to forecast sugar content and date of harvest for sugarcane crop. Analysed over 200 sugarcane farms across the nation for a complete crop cycle. A part of my work can be found documented <a href = "https://medium.com/data-kisaan/to-harvest-or-not-to-harvest-1b563690480c">here</a>.
     </p>
     <br>
   </div>

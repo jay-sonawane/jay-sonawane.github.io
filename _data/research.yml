@@ -12,13 +12,13 @@
     blog: 
     report:
 
-- title: Band-to-Band tunneling based neuron- TCAD calibration and modeling, design space exploration and variability study
+- title: Band-to-Band tunneling based neuron- TCAD calibration and modeling, design space and variability analysis
   guide: <a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">Prof. Udayan Ganguly</a>, <a href="https://www.ee.iitb.ac.in/~udayanresearch/"> MeLoDe Lab, Indian Institute of Technology Bombay</a>
   image:
     src: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/16/9098120/9082814/chava3abc-2985167-large.gif
     alt: 
   date: May '22- August '23
-  description: Modelled  GF 32nm PDSOI MOSFET (fabricated at GlobalFoundries) for operation in band to band tunneling (BTBT) regime. Calibrated experimental results (characterized at IIT Bombay Nanofabrication facility) with simulation results using Sentaurus TCAD. Investigated the BTBT physics- presence of trap assisted tunneling and direct tunneling dominant regions. Performed design space analysis and variability analysis in TCAD.
+  description: Modeled the GF 32nm PDSOI MOSFET (fabricated at GlobalFoundries) for operation in band to band tunneling (BTBT) regime. Calibrated experimental results (characterized at IIT Bombay Nanofabrication facility) with simulation results using Sentaurus TCAD. Investigated the BTBT physics- presence of trap assisted tunneling and direct tunneling dominant regions. Performed design space analysis and variability analysis in TCAD.
 
   links:
     code: 
@@ -26,12 +26,12 @@
     blog: 
     report:
 
-- title: Variability-aware Process and Aging Degradation Device-to-Circuit Degradation in CARAT
+- title: Variability-Aware Process and Aging Degradation Device-to-Circuit Degradation in CARAT
   guide: <a href="https://www.ee.iitb.ac.in/wiki/faculty/souvik">Prof. Souvik Mahapatra</a>, Departent of Electrical Engineering, Indian Institute of Technology Bombay
   image:
     src: https://ars.els-cdn.com/content/image/1-s2.0-S0167926019304249-gr16.jpg
     alt: 
-  date: May'23- present
+  date: May'23- August '24
   description: Integrated variability aware time-0 DVT, BTI and HCD variability in CARAT framework. Performed a comparative study between different small and large circuits, as well as different aging cases to understand the relative impact of individual variability due to process (time-0) and aging (BTI, HCD).
   links:
     code: 
