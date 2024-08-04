@@ -1,7 +1,7 @@
 - title: BEOL compatible Indium Tin Oxide Transistor for 3D monolithic integration (Fabrication and Modeling)
   guide: <a href="https://www.ee.iitb.ac.in/web/people/veeresh-deshpande/">Prof. Veeresh Deshpande</a>, Indian Institute of Technology Bombay  
   image: 
-    src: ./assets/img/research/Picture2.png
+    src: ./assets/img/research/ITO.png
     alt: 
   date: Aug '23- Jun'24
   description: Fabricated BEOL compatible ITO MOSFET for application in eDRAM. Performed TCAD modeling to design an optimized process flow, as well as provide insight on device physics in subthreshold and ON regimes. 
@@ -15,7 +15,7 @@
 - title: Band-to-Band tunneling based neuron- TCAD calibration and modeling, design space and variability analysis
   guide: <a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">Prof. Udayan Ganguly</a>, <a href="https://www.ee.iitb.ac.in/~udayanresearch/"> MeLoDe Lab, Indian Institute of Technology Bombay</a>
   image:
-    src: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/16/9098120/9082814/chava3abc-2985167-large.gif
+    src: ./assets/img/research/BTBT.png
     alt: 
   date: May '22- August '23
   description: Modeled the GlobalFoundries 32nm PDSOI MOSFET for operation in band to band tunneling (BTBT) regime. Calibrated experimental results using Sentaurus TCAD. Investigated the BTBT physics- presence of trap assisted tunneling and direct tunneling dominant regions. Performed design space analysis and variability analysis in TCAD.
