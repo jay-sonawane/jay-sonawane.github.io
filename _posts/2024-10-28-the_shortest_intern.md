@@ -8,31 +8,17 @@ categories: sample-posts
 featured: true
 ---
 
+Albeit the title sounds like a story where it is the story of an intern of a short stature: no, this that tale.
 
-Albeit the title sounds like a story where an underserved college undergrad bags the coveted internship 
-"accidentally": no, this is not about it.
-<!-- 
-The summer of 2023 was an exciting time to live in. The "academic comeback arc" ended since I finished all my courses, Futher, in the 8th semester my time-table was 
-to sleep for 4 hours every night, wake up at 4 or 5am, work till afternoon, sleep for another 2-3 hours in the afternoon. It was wierd time in life. Particularly, 
-this sleep schedule was the outcome of the necessity at the time- I needed to put on multiple simulations at a time. The never ending grind came to justice on 24th
- April when I submitted my first conference abstract to SISPAD. 
+The summer of 2023 was an exciting time. The "academic comeback arc" concluded since I finished all my courses. Futher, in the 8th semester my time-table was to sleep for 4 hours at night, wake up at 4-5am, work till afternoon, clinch another slim sleep for 2-3 hours in the afternoon. Particularly, this sleep schedule was dictated by the then's necessity to put on multiple simulations. The semptiernal grind came to justice on 24th April when I submitted my first conference abstract to SISPAD. 
 
-Around that time, en email popped up to all students advertising about Ph.D. positions available at IISC Banglore. I saw this as an opportunity to get exposed to 
-another hot domain of research in semiconductors. I received a positive reply from the professor. I was happy to go to IISC, although my peers would appreciate 
-coveted internships like MITACs and DAAD-WISE or any other foreign Univ intern more. Eventually I made in to Banglore, and seemed to like the weather coz it is 
+Around that time, en email popped up to all students advertising about Ph.D. positions available at IISC Banglore. Latching onto the idea of exploring an emerging domain in semiconductors, I mailed and received a positive reply from the professor regarding an intern. I was happy to go to IISC, although my peers would appreciate coveted internships like MITACs and DAAD-WISE or any other foreign Univ intern more. Banglore weather Eventually I made in to Banglore, and seemed to like the weather coz it is
 not as sweaty as Mumbai. 
 
-The internship started of weird since it was not a corporate intern, there was no HR onboarding or any introduction. I was informed that I would be given a researh 
-topic that would be decent enough to get good results in 2 months- since it was not my first time working on experimental research. To my surprise almost everyone
-in the cohort of co-interns was completing their second year of undergrad. In the first meeting I was told to work on designing a specific experiment concerning
-memory devices, for which i would present the next week. The mentor assigned to me seemed pretty irresponsive, as I was tossed between 2-3 people having different
-topics of interest for the remainder of two months. 
+The internship started off weird right away- since it was not a corporate intern, there was no HR onboarding or any introduction. I was informed that I would be given a researh topic that would be decent enough to get good results in 2 months as I had experimental resarch experience. Suprizingly, almost everyone in the cohort of co-interns was completing their second year of undergrad. In the first meeting I was told to work on designing a specific experiment concerning memory devices. The mentor assigned to me seemed pretty irresponsive, as I was tossed between 2-3 people having different topics of interest for the remainder of two months. 
 
+Ten days in, I had mostly reading papers, with no equipment training. We had our first intern-presentation meeting. Other interns presented some literature review they were asked to. Funny enough, the postdoc (let's call him Mr. NPD, the "leader" of the cohort who we were supposed to report to) started asking the presenters questions on basic physics. Mr. NPD asked one of them the numerical value of the thermal energy of electrons at room temperature. With a condescending tone, that of a teacher we all had in our lives, he retorted. Most of these interns had not even done a basic device physics course. I started to pity Mr. NPD who seemed to take pride in knowing something seemingly more important than applying it. The setting was his grande dinner, where he hogged on curious amateurs to satisfy his ego appetite and enjoy the knowledge gap. Eventually I presented about the experiment I was told to look into. Since I had not designed an experiment like this before, I presented on whatever plan/ flow that I could gauge. My mentor questioned me, saying that I was to present a literature review. Further, Mr. NPD asked me how many papers did I read. That was the funniest question someone asked me in a while. It felt like a mulish, rebelious teacher was asking me how many hours did I study. Next, he asked what topic I wanted to work on. To that, I replied that I had already been tossed between 3 people and their topics, I am okay with any topic. Just to diss me, he said- "If you are okay with doing anything, you might also do image processing". At that point the I wnated to burst into laughter and but I disspointing grimace instead. Mr. NPD tried anything and everything he could clutch on to make his day. I calmly replied, I am here to study devices and device physics, not image processing. Mr. NPD reverted back with some early teenage like remarks on the lines of you yourself said you are okay with anything. Haha! What a day that was. 
 
-2 weeks passed. I could just read papers and no exposure to equipment training was provided. We had our first intern-presentation meeting. Other interns 
-presented som literature review they were asked to. Funny enough, the postdoc (the "leader" of the cohort who we were supposed to report to) started asking 
-the presenters questions on basic physics. The postdoc asked the numerical value of the thermal energy of electrons at room temperature to an intern, reverting their
- answers in a condescending way. Most of these interns had not even done a basic device physics course. I started to pity the postdoc who seemed to take pride in 
- knowing something seemingly more important than applying it. The setting was his grande dinner, where he hogged on curious amateurs to satisfy his ego appetite.
-  Eventually I presented about the experiment I was told to look into. Since I had not designed an experiment like this before, I presented on whatever plan/ flow 
-  I could gauge. Eyebrows raised in the room and I was asked to present a literature review. I looked at my mentor with a little surprised look. Clearly, I was  -->
+Sometime during the same week, the group meeting with the professor was scheduled. I finally understood the hierarchy and the condescending atmosphere—Ph.D. students stuttered through presentations, and the Mr. NPD's hands shook nervously. The group dynamics were clearly tense and toxic. Looking at the dilapidated internship experience prospects, I dwelled in the dilemma of whether or not to go back. I called Shubham (my mentor at IITB) and told his what all happened. His honest reaction- he laughed. He had already warned me earlier, he chuckled and asked me to reconsider my decision of going to the internship. After discussing, making pro-cons table, reconsidering, contemplating, I decided to come back to Mumbai. 
+
+I think I returned after 15 days to Mumbai. With a heart full of joy and new vigour, I continued my research with Shubham. Looking back, I think that decision was on of the most crucial decisions in the course of graduate applications which were 5 months away. 
