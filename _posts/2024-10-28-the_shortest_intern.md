@@ -2,7 +2,7 @@
 layout: post
 title: The Shortest Intern
 date: 2023-10-28
-description: march & april, looking forward to life
+description: spring & fall, looking forward to life
 tags: formatting links
 categories: sample-posts
 featured: true
