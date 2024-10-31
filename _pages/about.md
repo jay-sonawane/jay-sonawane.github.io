@@ -40,7 +40,7 @@ I am interested in designing and fabrication of novel devices with accurate mode
 <ul>
   <li>Heterogenous/Monolithic 3D Integration</li>
   <li>Compute-in-Memory, Emerging Non-Volatile Memories (eNVMs), AI Hardware</li>
-  <li>Device-to-circuit translation, Design Technology Co-Optimization</li>
+  <li>ML-assisted modeling, Device-to-circuit translation, Design Technology Co-Optimization</li>
   <li>Device, Circuit Reliability and Variability</li>
 </ul>
 
