@@ -19,7 +19,7 @@ nav_order: 4
   <tr>
     <td>
       <ul>
-        <li><a href = "https://shimeng.ece.gatech.edu/professor/">Prof. Shimeng Yu Patil</a>, Georgia Institute of Technology</li>
+        <li><a href = "https://shimeng.ece.gatech.edu/professor/">Prof. Shimeng Yu</a>, Georgia Institute of Technology</li>
         <li>Omkar Phadke, Georgia Institute of Technology, Ph.D.</li>
       </ul>
     </td>
