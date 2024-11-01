@@ -19,13 +19,15 @@ nav_order: 4
   <tr>
     <td>
       <ul>
-        <li><a href = "https://sites.google.com/view/shubhampatil2107/home/">Shubham Patil</a>, IIT Bombay, Ph.D.</li>
-        <li>Payel Chatterjee, IIT Bombay, Ph.D.</li>
-        <li><a href="https://www.ee.iitb.ac.in/wiki/faculty/souvik">Prof. Souvik Mahapatra</a>, IIT Bombay</li>
+        <li><a href = "https://shimeng.ece.gatech.edu/professor/">Prof. Shimeng Yu Patil</a>, Georgia Institute of Technology</li>
+        <li>Omkar Phadke, Georgia Institute of Technology, Ph.D.</li>
       </ul>
     </td>
     <td>
       <ul>
+        <li><a href = "https://sites.google.com/view/shubhampatil2107/home/">Shubham Patil</a>, IIT Bombay, Ph.D.</li>
+        <li>Payel Chatterjee, IIT Bombay, Ph.D.</li>
+        <li><a href="https://www.ee.iitb.ac.in/wiki/faculty/souvik">Prof. Souvik Mahapatra</a>, IIT Bombay</li>
         <li>Aakash Deshpande, IIT Bombay, Ph.D.</li>
         <li>Abhishek Kadam, IIT Bombay, Ph.D.</li>
         <li>Shreyas Deshmukh, IIT Bombay, Ph.D.</li>
