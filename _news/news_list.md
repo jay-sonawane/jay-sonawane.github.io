@@ -12,6 +12,18 @@
       </thead>
       <tbody>
         <tr>
+          <th scope="row" class="date-column">Nov 2024</th>
+          <td style="font-size: 0.9rem">The conference article "Activity Compatible Device-to-Circuit Framework for Process, BTI and HCD Variability" was selected amongst the top 8 most impactful papers, and invited for publication in IEEE Transactions on Device and Materials Reliability</td>
+        </tr>
+                <tr>
+          <th scope="row" class="date-column">Aug 2024</th>
+          <td style="font-size: 0.9rem">Started Graduate School at Georgia Tech</td>
+        </tr>
+        <tr>
+          <th scope="row" class="date-column">Aug 2024</th>
+          <td style="font-size: 0.9rem">My first conference paper titled "Activity Compatible Device-to-Circuit Framework for Process, BTI and HCD Variability" got accepted at IIRW 2024</td>
+        </tr>
+        <tr>
           <th scope="row" class="date-column">June 2024</th>
           <td style="font-size: 0.9rem">Presented my Master's project on BEOL-compatible ITO transistor fabrication and modeling for heterogeneous 3D integration.</td>
         </tr>
