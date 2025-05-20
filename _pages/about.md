@@ -6,7 +6,7 @@ subtitle: Researcher #<a href='#'>Affiliations</a>.
 
 profile:
   align: right
-  image: Jay_td_main.png
+  image: Jay.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Pettit Microelectronics Research Center,</p>
