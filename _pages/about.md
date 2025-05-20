@@ -6,7 +6,7 @@ subtitle: Researcher #<a href='#'>Affiliations</a>.
 
 profile:
   align: right
-  image: Jay.png
+  image: Jay_td_main.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Pettit Microelectronics Research Center,</p>
@@ -65,7 +65,7 @@ Here's an essence of my <a href="{{ 'projects' | relative_url }}">research and o
 
 <div class="work-item">
     <div class="work-bubble-with-date">
-      <img src="/assets/img/ors.jpeg" class="work-bubble" />
+      <img src="/assets/img/ors.jpg" class="work-bubble" />
     </div>
     <p class="work-text">
       <strong> Graduate Student Mentor, Opportunity Research Scholar's Program (ORS), Georgia Tech, 2025-26</strong> <br/>
