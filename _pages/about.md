@@ -24,7 +24,7 @@ I am a Ph.D. student in Electrical and Computer Engineering at [Georgia Institut
 
 During my undergraduate program, I specialized in Nanoelectronics and Integrated Ciruits, at [Indian Institute of Technology Bombay](https://www.iitb.ac.in/) pursuing a Dual Degree (B.Tech+M.Tech) in Electrical Engineering. 
 
-I was involved in research with the [MeLoDe (Memory Logic Device and Design)](https://nanomemorylogic.wordpress.com/) group, with [Prof. Udayan Ganguly](https://www.ee.iitb.ac.in/web/people/faculty/home/udayan) and [Prof. Veeresh Deshpande](https://www.ee.iitb.ac.in/web/people/veeresh-deshpande/). My Dual Degree thesis was based on BEOL compatible ITO transistor fabrication and modeling for monolithic 3D integration, where I fabricated some cool ITO transistors. Earlier I worked on TCAD modeling of GF32nm SOI MOSFET for application in band-to-band tunneling neuron. Besides, I worked on the integration of variability-aware process and aging degradation device-to-circuit degradation in CARAT, under the guidance of [Prof. Souvik Mahapatra](https://www.ee.iitb.ac.in/wiki/faculty/souvik). 
+I was involved in research with the [MeLoDe (Memory Logic Device and Design)](https://nanomemorylogic.wordpress.com/) group, with [Prof. Udayan Ganguly](https://www.ee.iitb.ac.in/web/people/faculty/home/udayan) and [Prof. Veeresh Deshpande](https://www.ee.iitb.ac.in/web/people/veeresh-deshpande/). My Master's thesis was based on BEOL compatible ITO transistor fabrication and modeling for monolithic 3D integration, where I fabricated some cool ITO transistors. Earlier I worked on TCAD modeling of GF32nm SOI MOSFET for application in band-to-band tunneling neuron. Besides, I worked on the integration of variability-aware process and aging degradation device-to-circuit degradation in CARAT, under the guidance of [Prof. Souvik Mahapatra](https://www.ee.iitb.ac.in/wiki/faculty/souvik). 
 
 Amidst the boundless expanses of academic research, I have developed a fervent fascination for [Logotherapy](https://en.wikipedia.org/wiki/Logotherapy). In the quest for comprehending the intricacies of human belief systems and behavioral science, I find myself drawn to delve into the [schools of philosophy](https://bigthink.com/thinking/10-schools-of-philosophy-and-why-you-should-know-them/).
  <!-- Through the exploration of device physics, intricate design, and precise fabrication, we are actively engaged in advancing the realm of advanced computing.  -->
@@ -33,7 +33,7 @@ Amidst the boundless expanses of academic research, I have developed a fervent f
 <br>
 
 <h2><strong>Research</strong> Interests</h2>
-An enduring fascination with nanoscale devices fuels my profound academic passion for nanoelectronics, device physics, and modeling.
+<!-- An enduring fascination with nanoscale devices fuels my profound academic passion for nanoelectronics, device physics, and modeling. -->
 I am interested in designing and fabrication of novel devices with accurate modeling, for efficient device-to-circuit system level translation.
 
 
@@ -47,7 +47,14 @@ I am interested in designing and fabrication of novel devices with accurate mode
 <br>
 <br>
 
+<h2><strong>Recreational</strong> Interests</h2>
+<!-- An enduring fascination with nanoscale devices fuels my profound academic passion for nanoelectronics, device physics, and modeling. -->
+As much as one would admit the otherwise, the favourite past-time of mine is certainly not activity based, but is having conversations at length. 
+Some other "activities" that would come under the purview of interests are dancing (freestyle, swing dance), playing raquet sports(? maybe not) and sometimes D&D.
+Finally, I love to watch good movies (a lot).
 
+<br>
+<br>
 
 <h2><strong>Experience</strong> and Teaching Responsibilities</h2>
 Here's an essence of my <a href="{{ 'projects' | relative_url }}">research and other key projects</a>, and <a href="{{ 'work' | relative_url }}">professional work experience</a>. 
@@ -55,6 +62,15 @@ Here's an essence of my <a href="{{ 'projects' | relative_url }}">research and o
 <br>
 
 <div class="work"> 
+
+<div class="work-item">
+    <div class="work-bubble-with-date">
+      <img src="/assets/img/ors.jpeg" class="work-bubble" />
+    </div>
+    <p class="work-text">
+      <strong> Graduate Student Mentor, Opportunity Research Scholar's Program (ORS), Georgia Tech, 2025-26</strong> <br/>
+    </p>
+  </div>
 
   <div class="work-item">
     <div class="work-bubble-with-date">
