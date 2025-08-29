@@ -26,7 +26,7 @@ During my undergraduate program, I specialized in Nanoelectronics and Integrated
 
 I was involved in research with the [MeLoDe (Memory Logic Device and Design)](https://nanomemorylogic.wordpress.com/) group, with [Prof. Udayan Ganguly](https://www.ee.iitb.ac.in/web/people/faculty/home/udayan) and [Prof. Veeresh Deshpande](https://www.ee.iitb.ac.in/web/people/veeresh-deshpande/). My Master's thesis was based on BEOL compatible ITO transistor fabrication and modeling for monolithic 3D integration, where I fabricated some cool ITO transistors. Earlier I worked on TCAD modeling of GF32nm SOI MOSFET for application in band-to-band tunneling neuron. Besides, I worked on the integration of variability-aware process and aging degradation device-to-circuit degradation in CARAT, under the guidance of [Prof. Souvik Mahapatra](https://www.ee.iitb.ac.in/wiki/faculty/souvik). 
 
-Amidst the boundless expanses of academic research, I have developed a fervent fascination for [Logotherapy](https://en.wikipedia.org/wiki/Logotherapy). In the quest for comprehending the intricacies of human belief systems and behavioral science, I find myself drawn to delve into the [schools of philosophy](https://bigthink.com/thinking/10-schools-of-philosophy-and-why-you-should-know-them/).
+<!-- Amidst the boundless expanses of academic research, I have developed a fervent fascination for [Logotherapy](https://en.wikipedia.org/wiki/Logotherapy). In the quest for comprehending the intricacies of human belief systems and behavioral science, I find myself drawn to delve into the [schools of philosophy](https://bigthink.com/thinking/10-schools-of-philosophy-and-why-you-should-know-them/). -->
  <!-- Through the exploration of device physics, intricate design, and precise fabrication, we are actively engaged in advancing the realm of advanced computing.  -->
 
 <br>
@@ -39,8 +39,8 @@ I am interested in designing and fabrication of novel devices with accurate mode
 
 <ul>
   <li>Heterogenous/Monolithic 3D Integration</li>
-  <li>Compute-in-Memory, Emerging Non-Volatile Memories (eNVMs), AI Hardware</li>
-  <li>ML-assisted modeling, Device-to-circuit translation, Design Technology Co-Optimization</li>
+  <li>Emerging Non-Volatile Memories (eNVMs), AI Hardware</li>
+  <li>Physical and ML-assisted Device Modeling</li>
   <li>Device, Circuit Reliability and Variability</li>
 </ul>
 

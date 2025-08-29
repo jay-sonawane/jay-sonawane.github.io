@@ -25,16 +25,13 @@ nav_order: 4
     </td>
     <td>
       <ul>
+        <li><a href="https://www.ee.iitb.ac.in/wiki/faculty/souvik">Prof. Souvik Mahapatra</a>, IIT Bombay</li>
+        <li><a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">Prof. Udayan Ganguly</a>, IIT Bombay</li>
+        <li><a href="https://www.ee.iitb.ac.in/web/people/veeresh-deshpande/">Prof. Veeresh Deshpande</a>, IIT Bombay</li>
+        <li><a href="https://iitgn.ac.in/faculty/ee/fac-sandip">Prof. Sandip Lashkare</a>, IIT Gandhinagar</li>
         <li><a href = "https://sites.google.com/view/shubhampatil2107/home/">Shubham Patil</a>, IIT Bombay, Ph.D.</li>
         <li>Payel Chatterjee, IIT Bombay, Ph.D.</li>
-        <li><a href="https://www.ee.iitb.ac.in/wiki/faculty/souvik">Prof. Souvik Mahapatra</a>, IIT Bombay</li>
         <li>Aakash Deshpande, IIT Bombay, Ph.D.</li>
-        <li>Abhishek Kadam, IIT Bombay, Ph.D.</li>
-        <li>Shreyas Deshmukh, IIT Bombay, Ph.D.</li>
-        <li><a href="https://iitgn.ac.in/faculty/ee/fac-sandip">Prof. Sandip Lashkare</a>, IIT Gandhinagar</li>
-        <li><a href="https://www.ee.iitb.ac.in/web/people/veeresh-deshpande/">Prof. Veeresh Deshpande</a>, IIT Bombay</li>
-        <li><a href="https://www.ee.iitb.ac.in/web/people/udayan-ganguly/">Prof. Udayan Ganguly</a>, IIT Bombay</li>
-
       </ul>
     </td>
   </tr>
