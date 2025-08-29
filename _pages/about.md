@@ -50,7 +50,8 @@ I am interested in designing and fabrication of novel devices with accurate mode
 <h2><strong>Recreational</strong> Interests</h2>
 <!-- An enduring fascination with nanoscale devices fuels my profound academic passion for nanoelectronics, device physics, and modeling. -->
 As much as one would admit the otherwise, the favourite past-time of mine is certainly not activity based, but is having conversations at length. 
-Some other "activities" that would come under the purview of interests are dancing (freestyle, swing dance), playing raquet sports(? maybe not) and sometimes D&D.
+Some other "activities" that would come under the purview of interests are dancing (<a href="https://youtu.be/wiyKZpFMH9I?si=qhLaVVUxziadF3Oc" target="_blank">freestyle</a>
+, swing dance), playing raquet sports(? maybe not) and sometimes D&D.
 Finally, I love to watch good movies (a lot).
 
 <br>
