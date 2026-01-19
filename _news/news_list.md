@@ -11,6 +11,22 @@
         </tr>
       </thead>
       <tbody>
+                  <tr>
+          <th scope="row" class="date-column">Dec 2025</th>
+          <td style="font-size: 0.9rem">The IEEE EDL submission got accepted: "Asymmetric Underlap-Overlap 2T Gain Cell Enabling Voltage-Sensing Readout with Minimized Capacitive Coupling"</td>
+        </tr>
+            <tr>
+          <th scope="row" class="date-column">Dec 2025</th>
+          <td style="font-size: 0.9rem">Presented at IEDM 2025 conference in the Memory Technology session: "Demonstration of 3T0C Gain Cells with Self-Aligned Oxide Transistors for Parasitic-Aware Design at Array-level"</td>
+        </tr>
+      <tr>
+          <th scope="row" class="date-column">Oct 2025</th>
+          <td style="font-size: 0.9rem">The conference submission to IEDM 2025 was accepted: "Demonstration of 3T0C Gain Cells with Self-Aligned Oxide Transistors for Parasitic-Aware Design at Array-level"</td>
+        </tr>
+        <tr>
+          <th scope="row" class="date-column">Jul 2025</th>
+          <td style="font-size: 0.9rem">Attended the IEEE Nano 2025 conference at Washington DC to present: "Machine Learning Assisted Compact Modeling of a Ferrorelectric Capacitor" as a special sessions paper</td>
+        </tr>
         <tr>
           <th scope="row" class="date-column">Nov 2024</th>
           <td style="font-size: 0.9rem">The conference article "Activity Compatible Device-to-Circuit Framework for Process, BTI and HCD Variability" was selected amongst the top 8 most impactful papers, and invited for publication in IEEE Transactions on Device and Materials Reliability</td>
@@ -29,15 +45,15 @@
         </tr>
         <tr>
           <th scope="row" class="date-column">February 2024</th>
-          <td style="font-size: 0.9rem">Received GRA offer from <a href = "https://shimeng.ece.gatech.edu/professor/">Prof. Shimeng Yu</a>. Will be an incoming Ph.D. student at <a href="https://ece.gatech.edu/">Georgia Institute of Technology</a>. :smile: </td>
+          <td style="font-size: 0.9rem">Received GRA offer from <a href = "https://shimeng.ece.gatech.edu/professor/">Prof. Shimeng Yu</a>. Will be an incoming Ph.D. student at <a href="https://ece.gatech.edu/">Georgia Institute of Technology</a>.  </td>
         </tr>
         <tr>
           <th scope="row" class="date-column">February 2024</th>
-          <td style="font-size: 0.9rem">Fabricated back-gated transistor: ITO BG-FET using ALD, RF sputtering and 2 optical lithography levels. The transistor leakage is very low (1e-12 A/um) :sparkles: </td>
+          <td style="font-size: 0.9rem">Fabricated back-gated transistor: ITO BG-FET using ALD, RF sputtering and 2 optical lithography levels. The transistor leakage is very low (1e-12 A/um) </td>
         </tr>
         <tr>
           <th scope="row" class="date-column">December 2023</th>
-          <td style="font-size: 0.9rem">Fabricated my first transistor: ITO Ring-FET using ALD, RF sputtering and 1st level optical lithography. The transistor has an incredible S/D Ioff of 5e-17 A/um and SS of 69.9 mV/dec :smile: </td>
+          <td style="font-size: 0.9rem">Fabricated my first transistor: ITO Ring-FET using ALD, RF sputtering and 1st level optical lithography. The transistor has an incredible S/D Ioff of 5e-17 A/um and SS of 69.9 mV/dec  </td>
         </tr>
         <tr>
           <th scope="row" class="date-column">November 2023</th>
@@ -57,11 +73,11 @@
         </tr>
         <tr>
           <th scope="row" class="date-column">May 2023</th>
-          <td style="font-size: 0.9rem">Received the Undergraduate Research Award 01 (URA 01) for "excellent contribution to research in preliminary research/developmental exposure" for my project: "TCAD calibration of SOI MOSFET followed by design space exploration for energy-efficient neurons." :sparkles: :smile:</td>
+          <td style="font-size: 0.9rem">Received the Undergraduate Research Award 01 (URA 01) for "excellent contribution to research in preliminary research/developmental exposure" for my project: "TCAD calibration of SOI MOSFET followed by design space exploration for energy-efficient neurons." </td>
         </tr>        
         <tr>
           <th scope="row" class="date-column">April 2023</th>
-          <td style="font-size: 0.9rem">Submitted my first conference paper titled "7.5× Energy Reduction by Engineering SOI MOSFET Design for Ultra-Low Power Neurons Using Experimentally Calibrated TCAD" to <a href="https://sispad2023.jp/">SISPAD 2023</a>. :sparkles:</td>
+          <td style="font-size: 0.9rem">Submitted my first conference paper titled "7.5× Energy Reduction by Engineering SOI MOSFET Design for Ultra-Low Power Neurons Using Experimentally Calibrated TCAD" to <a href="https://sispad2023.jp/">SISPAD 2023</a>.</td>
         </tr>
         <tr>
           <th scope="row" class="date-column">May 2022</th>
