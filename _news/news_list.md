@@ -11,15 +11,15 @@
         </tr>
       </thead>
       <tbody>
-                  <tr>
+        <tr>
           <th scope="row" class="date-column">Dec 2025</th>
           <td style="font-size: 0.9rem">The IEEE EDL submission got accepted: "Asymmetric Underlap-Overlap 2T Gain Cell Enabling Voltage-Sensing Readout with Minimized Capacitive Coupling"</td>
         </tr>
-            <tr>
+        <tr>
           <th scope="row" class="date-column">Dec 2025</th>
           <td style="font-size: 0.9rem">Presented at IEDM 2025 conference in the Memory Technology session: "Demonstration of 3T0C Gain Cells with Self-Aligned Oxide Transistors for Parasitic-Aware Design at Array-level"</td>
         </tr>
-      <tr>
+        <tr>
           <th scope="row" class="date-column">Oct 2025</th>
           <td style="font-size: 0.9rem">The conference submission to IEDM 2025 was accepted: "Demonstration of 3T0C Gain Cells with Self-Aligned Oxide Transistors for Parasitic-Aware Design at Array-level"</td>
         </tr>
@@ -31,7 +31,7 @@
           <th scope="row" class="date-column">Nov 2024</th>
           <td style="font-size: 0.9rem">The conference article "Activity Compatible Device-to-Circuit Framework for Process, BTI and HCD Variability" was selected amongst the top 8 most impactful papers, and invited for publication in IEEE Transactions on Device and Materials Reliability</td>
         </tr>
-                <tr>
+        <tr>
           <th scope="row" class="date-column">Aug 2024</th>
           <td style="font-size: 0.9rem">Started Graduate School at Georgia Tech</td>
         </tr>
