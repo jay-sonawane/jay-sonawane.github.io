@@ -1,8 +1,5 @@
 # Jay Sonawane
 This website is my personal landing page, which specifically focuses on my research projects.
-### Final Year DD Student
-### Electrical Engineering, IIT Bombay
-### 19D070026@iitb.ac.in
 ### jay.sonawane.iitb@gmail.com
 
 ## License
