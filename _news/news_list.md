@@ -13,6 +13,10 @@
       <tbody>
         <tr>
           <th scope="row" class="date-column">Dec 2025</th>
+          <td style="font-size: 0.9rem">The article on "Asymmetric 2T Gain Cell" is to selected to be featured as the editor's top picks in IEEE Electronic Devices Letters, March 2026 issue</td>
+        </tr>
+        <tr>
+          <th scope="row" class="date-column">Dec 2025</th>
           <td style="font-size: 0.9rem">The IEEE EDL submission got accepted: "Asymmetric Underlap-Overlap 2T Gain Cell Enabling Voltage-Sensing Readout with Minimized Capacitive Coupling"</td>
         </tr>
         <tr>
