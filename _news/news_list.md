@@ -12,7 +12,7 @@
       </thead>
       <tbody>
         <tr>
-          <th scope="row" class="date-column">Dec 2025</th>
+          <th scope="row" class="date-column">Jan 2025</th>
           <td style="font-size: 0.9rem">The article on "Asymmetric 2T Gain Cell" is to selected to be featured as the editor's top picks in IEEE Electronic Devices Letters, March 2026 issue</td>
         </tr>
         <tr>
