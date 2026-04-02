@@ -12,7 +12,7 @@
       </thead>
       <tbody>
         <tr>
-          <th scope="row" class="date-column">Jan 2025</th>
+          <th scope="row" class="date-column">March 2025</th>
           <td style="font-size: 0.9rem">My first author VLSI submission on Folded Asymmetric Boosted 3T Gain Cell Design and co-first author work on BiCS Monolithically stacked AOS FeRAM is accepted in VLSI 2026</td>
         </tr>
         <tr>
