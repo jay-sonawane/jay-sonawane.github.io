@@ -13,6 +13,10 @@
       <tbody>
         <tr>
           <th scope="row" class="date-column">Jan 2025</th>
+          <td style="font-size: 0.9rem">My first author VLSI submission on Folded Asymmetric Boosted 3T Gain Cell Design and co-first author work on BiCS Monolithically stacked AOS FeRAM is accepted in VLSI 2026</td>
+        </tr>
+        <tr>
+          <th scope="row" class="date-column">Jan 2025</th>
           <td style="font-size: 0.9rem">The article on "Asymmetric 2T Gain Cell" is to selected to be featured as the editor's top picks in IEEE Electronic Devices Letters, March 2026 issue</td>
         </tr>
         <tr>
