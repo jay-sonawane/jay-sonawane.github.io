@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(netlify --version)",
+      "Bash(npm --version)",
+      "Bash(gh --version)",
+      "Bash(gh auth:*)",
+      "Bash(gh repo:*)",
+      "Bash(gh api:*)",
+      "Bash(gh run:*)",
+      "Bash(gh workflow:*)"
+    ]
+  }
+}
